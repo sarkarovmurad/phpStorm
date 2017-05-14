@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="32b35b13-0fe3-439c-b358-98d5e986f04f" name="cp.webpractik.ru" url="http://cp.webpractik.ru/">
+        <fileTransfer host="138.201.127.228" port="22" privateKey="C:\Users\north\.ssh\id_rsa" rootFolder="/home/webpractik.ru/web/cp.webpractik.ru/public_html/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
