@@ -545,6 +545,11 @@
         <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
+    <option name="PHP_PREDEFINED SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="dfc47d" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="ddddcc" />
