@@ -379,6 +379,11 @@
         <option name="FOREGROUND" value="93e0e3" />
       </value>
     </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="dfaf8f" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="dfaf8f" />
@@ -410,6 +415,11 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="7f9f7f" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="dfaf8f" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
