@@ -4,7 +4,7 @@
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-18T02:58:33</property>
+    <property name="modified">2017-05-18T03:08:27</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
   <font>
@@ -1270,6 +1270,11 @@
         <option name="FOREGROUND" value="6d9cbe" />
       </value>
     </option>
+    <option name="SASS_COLOR">
+      <value>
+        <option name="FOREGROUND" value="d6d7af" />
+      </value>
+    </option>
     <option name="SASS_COMMENT">
       <value>
         <option name="FOREGROUND" value="bc9455" />
@@ -1281,14 +1286,51 @@
         <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
+    <option name="SASS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="f0dfaf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="SASS_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
+    <option name="SASS_DOT">
+      <value />
+    </option>
+    <option name="SASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="SASS_IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f0dfaf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
+      </value>
+    </option>
+    <option name="SASS_OPTIONAL">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="6e9cbe" />
       </value>
     </option>
     <option name="SASS_RULE">
@@ -1298,7 +1340,7 @@
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="6d9cbe" />
+        <option name="FOREGROUND" value="dfaf8f" />
       </value>
     </option>
     <option name="SCOPE_KEY_All">
