@@ -4,7 +4,7 @@
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-18T03:08:27</property>
+    <property name="modified">2017-05-18T11:22:20</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
   <font>
@@ -1134,6 +1134,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PHP_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="568e4d" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_ESCAPE_SEQUENCE">
       <value>
         <option name="FOREGROUND" value="d896a6" />
@@ -1186,6 +1192,11 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="fffb9d" />
+      </value>
+    </option>
+    <option name="PHP_MARKUP_ID">
+      <value>
+        <option name="FOREGROUND" value="77b767" />
       </value>
     </option>
     <option name="PHP_NUMBER">
