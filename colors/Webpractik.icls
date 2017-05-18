@@ -4,7 +4,7 @@
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-18T14:40:35</property>
+    <property name="modified">2017-05-19T00:25:07</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
   <font>
@@ -868,6 +868,12 @@
       <value>
         <option name="FOREGROUND" value="fffd87" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
