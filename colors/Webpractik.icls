@@ -4,7 +4,7 @@
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-19T11:51:27</property>
+    <property name="modified">2017-05-20T13:24:23</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
   <font>
@@ -644,6 +644,11 @@
       <value>
         <option name="FOREGROUND" value="dedede" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HTML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7f9f7f" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -1634,9 +1639,48 @@
         <option name="FOREGROUND" value="fa4b3d" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="fed6af" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="d68686" />
+      </value>
+    </option>
+    <option name="XML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7f9f7f" />
+      </value>
+    </option>
+    <option name="XML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="dfaf8f" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="ab947d" />
+      </value>
+    </option>
+    <option name="XML_TAG_DATA">
+      <value>
+        <option name="FOREGROUND" value="dedede" />
+        <option name="BACKGROUND" value="393939" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="93e0e3" />
+        <option name="FOREGROUND" value="d6d7af" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE4">
