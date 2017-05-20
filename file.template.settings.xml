@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="JavaScript File.js" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+  </component>
+</application>
