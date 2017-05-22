@@ -14,4 +14,11 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="$" value="$('$var$')" description="Jquery" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
