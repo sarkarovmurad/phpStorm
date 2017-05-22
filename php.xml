@@ -1,7 +1,7 @@
 <application>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration tool_path="$USER_HOME$/AppData/Roaming/Composer/vendor/bin/phpcs.bat" />
+      <PhpCSConfiguration max_messages_per_file="100" tool_path="$USER_HOME$/AppData/Roaming/Composer/vendor/bin/phpcs.bat" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
