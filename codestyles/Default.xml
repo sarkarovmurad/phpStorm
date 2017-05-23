@@ -52,7 +52,12 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
+    <arrangement>
+      <groups />
+      <rules />
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
