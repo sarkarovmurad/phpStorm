@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[generation.work] - ...\local\components\custom\form.track-application\templates\.default\field.php'" />
-    <option name="defaultScopeName" value="File '[generation.work] - ...\local\components\custom\form.track-application\templates\.default\field.php'" />
+    <option name="customScope" value="File '[generation.work] - ...\local\modules\gs.applications\lib\traits\getiblockdata.php'" />
+    <option name="defaultScopeName" value="File '[generation.work] - ...\local\modules\gs.applications\lib\traits\getiblockdata.php'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[generation.work] - ...\local\components\custom\form.track-application\templates\.default\field.php'" />
+    <option name="SEARCH_SCOPE" value="File '[generation.work] - ...\local\modules\gs.applications\lib\traits\getiblockdata.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
