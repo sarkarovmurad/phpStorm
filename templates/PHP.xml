@@ -5,4 +5,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="for" value="for ($$$index$ = 0; $$$index$ &lt; count($$$iterable$); $$$index$++) {&#10;    $END$&#10;}  " description="for ()" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
