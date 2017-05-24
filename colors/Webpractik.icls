@@ -4,7 +4,7 @@
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-22T14:04:31</property>
+    <property name="modified">2017-05-24T17:12:57</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
   <font>
@@ -280,6 +280,67 @@
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value />
+    </option>
+    <option name="CSS.BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CSS.BRACES">
+      <value />
+    </option>
+    <option name="CSS.BRACKETS">
+      <value />
+    </option>
+    <option name="CSS.COLON">
+      <value>
+        <option name="FOREGROUND" value="dedede" />
+        <option name="BACKGROUND" value="393939" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="d6d7af" />
+      </value>
+    </option>
+    <option name="CSS.COMMA">
+      <value />
+    </option>
+    <option name="CSS.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="87ae86" />
+      </value>
+    </option>
+    <option name="CSS.DOT">
+      <value />
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="d6d7af" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="f0dfaf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="6e9cbe" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="d68686" />
+      </value>
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
@@ -1303,14 +1364,30 @@
         <option name="FOREGROUND" value="6d9cbe" />
       </value>
     </option>
+    <option name="SASS_BRACES">
+      <value />
+    </option>
+    <option name="SASS_BRACKETS">
+      <value />
+    </option>
+    <option name="SASS_COLON">
+      <value>
+        <option name="FOREGROUND" value="dedede" />
+        <option name="BACKGROUND" value="393939" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="SASS_COLOR">
       <value>
         <option name="FOREGROUND" value="d6d7af" />
       </value>
     </option>
+    <option name="SASS_COMMA">
+      <value />
+    </option>
     <option name="SASS_COMMENT">
       <value>
-        <option name="FOREGROUND" value="bc9455" />
+        <option name="FOREGROUND" value="87ae86" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1336,6 +1413,11 @@
     <option name="SASS_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="SASS_ID_SELECTOR">
+      <value>
+        <option name="FOREGROUND" value="d6d7af" />
       </value>
     </option>
     <option name="SASS_IMPORTANT">
@@ -1364,6 +1446,16 @@
     <option name="SASS_PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="6e9cbe" />
+      </value>
+    </option>
+    <option name="SASS_PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="d68686" />
+      </value>
+    </option>
+    <option name="SASS_PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="d6d7af" />
       </value>
     </option>
     <option name="SASS_RULE">
