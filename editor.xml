@@ -1,17 +1,10 @@
 <application>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
-  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssColorPreviewInGutter" value="false" />
-    <option name="showCssInlineColorPreview" value="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
