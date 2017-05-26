@@ -1,10 +1,15 @@
 <templateSet group="PHP">
-  <template name="pre" value="echo '&lt;pre&gt;';&#10;print_r($variable$);&#10;echo '&lt;pre&gt;';" description="Print_r" toReformat="true" toShortenFQNames="true">
+  <template name="pre" value="echo '&lt;pre&gt;';&#10;print_r($variable$);&#10;echo '&lt;/pre&gt;';" description="Print_r" toReformat="true" toShortenFQNames="true">
     <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
-      <option name="PHP Comment" value="false" />
-      <option name="PHP Expression" value="false" />
+    </context>
+  </template>
+  <template name="for" value="for ($$$index$ = 0; $$$index$ &lt; count($$$iterable$); $$$index$++) {&#10;    $END$&#10;}  " description="for ()" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
