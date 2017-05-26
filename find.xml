@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '[generation-stratup.dev] - ...\local\modules\articul.notify\lib\notify.php'" />
+    <option name="defaultScopeName" value="File '[generation-stratup.dev] - ...\local\modules\articul.notify\lib\notify.php'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '[generation-stratup.dev] - ...\local\modules\articul.notify\lib\notify.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
