@@ -85,7 +85,7 @@
             </match>
           </rule>
         </section>
-        <section start_comment="// =&gt; Fields">
+        <section>
           <rule>
             <match>
               <AND>
@@ -143,8 +143,7 @@
             </match>
           </rule>
         </section>
-        <section start_comment="// =&gt; Protected" />
-        <section start_comment="// =&gt; Private">
+        <section>
           <rule>
             <match>
               <AND>
