@@ -1,0 +1,15 @@
+<templateSet group="PHP &lt;= Html">
+  <template name="if" value="&lt;? if ($var$) : ?&gt;&#10;    $expression$&#10;&lt;? endif; ?&gt;" description="if html" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="du" value="&lt;? \Bitrix\Main\Diag\Debug::dump($var$); ?&gt;" description="\Bitrix\Main\Diag\Debug::dump" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
