@@ -3,5 +3,8 @@
     <internal_templates>
       <template name="JavaScript File.js" reformat="true" live-template-enabled="true" enabled="true" />
     </internal_templates>
+    <includes_templates>
+      <template name="Bitrix component Doc Comment.php" reformat="true" live-template-enabled="true" />
+    </includes_templates>
   </component>
 </application>
