@@ -63,4 +63,8 @@
   <action id="Uml.ShowDiff" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="add_lang_file_annotation">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
 </keymap>
