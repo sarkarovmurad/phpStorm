@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[new.siber.loc] - ...\local\static\assets\sass'" />
-    <option name="defaultScopeName" value="Directory '[new.siber.loc] - ...\local\static\assets\sass'" />
+    <option name="customScope" value="Directory '[new.siber.loc] - ...\local\templates\.default\components'" />
+    <option name="defaultScopeName" value="Directory '[new.siber.loc] - ...\local\templates\.default\components'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Directory '[new.siber.loc] - ...\local\static\assets\sass'" />
+    <option name="SEARCH_SCOPE" value="Directory '[new.siber.loc] - ...\local\templates\.default\components'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
