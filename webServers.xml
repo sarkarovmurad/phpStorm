@@ -21,6 +21,9 @@
       <webServer id="2cb07d7a-1ce4-4c5b-98f5-4f5994ae642e" name="frontend-external" url="http://localhost:3000/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="be8a38c5-f5f4-4e90-9845-97178a82624d" name="new.siber.loc" url="http://new.siber.loc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
