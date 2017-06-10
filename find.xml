@@ -6,6 +6,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
