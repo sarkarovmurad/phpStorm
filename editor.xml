@@ -1,9 +1,12 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="200" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="2000" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="SqlEditorOptions">
