@@ -4,7 +4,7 @@
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-11T14:56:48</property>
+    <property name="modified">2017-06-11T15:28:53</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
   <font>
@@ -1692,6 +1692,9 @@
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
+    </option>
+    <option name="TS.BRACES">
+      <value />
     </option>
     <option name="TYPEDEF">
       <value>
