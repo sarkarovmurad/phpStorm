@@ -33,6 +33,25 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
+    <option name="NEW_LINE_BEFORE_COMMA" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+    <option name="WRAP_INSIDE_CREATE_TABLE" value="0" />
+    <option name="WRAP_INSIDE_SELECT" value="0" />
+    <option name="WRAP_INSIDE_JOIN_EXPRESSION" value="0" />
+    <option name="WRAP_INSIDE_GROUP_BY" value="0" />
+    <option name="WRAP_INSIDE_WHERE" value="0" />
+    <option name="WRAP_INSIDE_ORDER_BY" value="0" />
+    <option name="WRAP_INSIDE_SET" value="0" />
+    <option name="WRAP_INSIDE_BINARY_EXPRESSION" value="0" />
+    <option name="WRAP_INSIDE_ARGUMENT_DEFINITION" value="0" />
+    <option name="WRAP_INSIDE_CALL_EXPRESSION" value="0" />
+    <option name="WRAP_INSIDE_VALUES_EXPRESSION" value="0" />
+    <option name="WRAP_VALUES_EXPRESSION" value="0" />
+    <option name="WRAP_PARENTHESIZED_EXPRESSION_INSIDE_VALUES" value="0" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -191,6 +210,13 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
