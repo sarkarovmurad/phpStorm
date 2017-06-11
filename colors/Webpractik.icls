@@ -4,7 +4,7 @@
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-11T15:57:18</property>
+    <property name="modified">2017-06-12T00:01:07</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
   <font>
@@ -241,9 +241,7 @@
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
-      <value>
-        <option name="BACKGROUND" value="3e3850" />
-      </value>
+      <value />
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
@@ -1642,6 +1640,113 @@
     <option name="SPY-JS$VALUE_HINT">
       <value>
         <option name="EFFECT_COLOR" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="SQL_BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SQL_BRACES">
+      <value />
+    </option>
+    <option name="SQL_BRACKETS">
+      <value />
+    </option>
+    <option name="SQL_COLUMN">
+      <value>
+        <option name="FOREGROUND" value="dfaf8f" />
+      </value>
+    </option>
+    <option name="SQL_COMMA">
+      <value />
+    </option>
+    <option name="SQL_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7a9d79" />
+      </value>
+    </option>
+    <option name="SQL_DATABASE_OBJECT">
+      <value>
+        <option name="FOREGROUND" value="f4a020" />
+      </value>
+    </option>
+    <option name="SQL_DOT">
+      <value />
+    </option>
+    <option name="SQL_EXTERNAL_TOOL">
+      <value>
+        <option name="BACKGROUND" value="364135" />
+      </value>
+    </option>
+    <option name="SQL_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f0dfaf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SQL_LABEL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SQL_LOCAL_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="SQL_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="87d6d5" />
+      </value>
+    </option>
+    <option name="SQL_PARAMETER">
+      <value />
+    </option>
+    <option name="SQL_PARENS">
+      <value />
+    </option>
+    <option name="SQL_PROCEDURE">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SQL_SCHEMA">
+      <value>
+        <option name="FOREGROUND" value="f4a020" />
+      </value>
+    </option>
+    <option name="SQL_SEMICOLON">
+      <value />
+    </option>
+    <option name="SQL_STRING">
+      <value>
+        <option name="FOREGROUND" value="d68686" />
+      </value>
+    </option>
+    <option name="SQL_SYNTHETIC_ENTITY">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SQL_TABLE">
+      <value>
+        <option name="FOREGROUND" value="f4a020" />
+      </value>
+    </option>
+    <option name="SQL_TYPE">
+      <value>
+        <option name="FOREGROUND" value="f0dfaf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SQL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
