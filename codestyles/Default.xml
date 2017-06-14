@@ -39,10 +39,10 @@
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
     <option name="WRAP_INSIDE_CREATE_TABLE" value="0" />
-    <option name="WRAP_INSIDE_SELECT" value="0" />
+    <option name="WRAP_INSIDE_SELECT" value="5" />
     <option name="WRAP_INSIDE_JOIN_EXPRESSION" value="0" />
-    <option name="WRAP_INSIDE_GROUP_BY" value="0" />
-    <option name="WRAP_INSIDE_WHERE" value="0" />
+    <option name="WRAP_INSIDE_GROUP_BY" value="5" />
+    <option name="WRAP_INSIDE_WHERE" value="5" />
     <option name="WRAP_INSIDE_ORDER_BY" value="0" />
     <option name="WRAP_INSIDE_SET" value="0" />
     <option name="WRAP_INSIDE_BINARY_EXPRESSION" value="0" />
