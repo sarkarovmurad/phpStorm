@@ -4,11 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*p</mask>
-      <mask>*ph</mask>
       <mask>*php</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
@@ -35,6 +32,10 @@
       <mask>.</mask>
       <mask>.php</mask>
       <mask>*.php</mask>
+      <mask>*.pj</mask>
+      <mask>*.pjs</mask>
+      <mask>*.pjsx</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
