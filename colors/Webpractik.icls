@@ -4,7 +4,7 @@
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-26T15:26:30</property>
+    <property name="modified">2017-06-26T15:48:04</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
   <font>
@@ -241,9 +241,7 @@
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
-      <value>
-        <option name="BACKGROUND" value="3e3850" />
-      </value>
+      <value />
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
