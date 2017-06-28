@@ -29,6 +29,11 @@
       <mask>*sas</mask>
       <mask>*sass</mask>
       <mask>*.sass</mask>
+      <mask>*m</mask>
+      <mask>*me</mask>
+      <mask>*men</mask>
+      <mask>*menu</mask>
+      <mask>*menu*</mask>
     </recentFileMasks>
   </component>
 </application>
