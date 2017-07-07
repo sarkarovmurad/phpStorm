@@ -11,11 +11,13 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+    <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
