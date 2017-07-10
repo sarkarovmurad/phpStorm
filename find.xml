@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,7 +16,6 @@
       <mask>*.mxml</mask>
       <mask>*p</mask>
       <mask>*ph</mask>
-      <mask>*php</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.s</mask>
@@ -36,6 +36,7 @@
       <mask>*men</mask>
       <mask>*menu</mask>
       <mask>*menu*</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
