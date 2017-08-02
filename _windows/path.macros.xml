@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="INIT_CWD" value="C:/server/generation.work/local/static" />
+  </component>
+</application>
