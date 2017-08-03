@@ -68,6 +68,9 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
+  <action id="ViewStatusBar">
+    <keyboard-shortcut first-keystroke="ctrl alt multiply" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="add_lang_file_annotation">
