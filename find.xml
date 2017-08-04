@@ -5,16 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="project" />
+    <option name="FILE_MASK" value="*js" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*p</mask>
       <mask>*ph</mask>
-      <mask>*php</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -29,13 +26,17 @@
       <mask>*men</mask>
       <mask>*menu</mask>
       <mask>*menu*</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.s</mask>
       <mask>*.sas</mask>
       <mask>*.js</mask>
       <mask>*.sass</mask>
+      <mask>*php</mask>
+      <mask>*p</mask>
+      <mask>*</mask>
+      <mask>*j</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
