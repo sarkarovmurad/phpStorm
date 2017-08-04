@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="project" />
-    <option name="FILE_MASK" value="*js" />
+    <option name="FILE_MASK" value="*sass" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -18,9 +18,6 @@
       <mask>*.p</mask>
       <mask>*.sa</mask>
       <mask>*s</mask>
-      <mask>*sa</mask>
-      <mask>*sas</mask>
-      <mask>*sass</mask>
       <mask>*m</mask>
       <mask>*me</mask>
       <mask>*men</mask>
@@ -37,6 +34,9 @@
       <mask>*</mask>
       <mask>*j</mask>
       <mask>*js</mask>
+      <mask>*sa</mask>
+      <mask>*sas</mask>
+      <mask>*sass</mask>
     </recentFileMasks>
   </component>
 </application>
