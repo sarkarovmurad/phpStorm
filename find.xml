@@ -4,13 +4,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.sass</mask>
       <mask>*.sas</mask>
       <mask>*.sa</mask>
       <mask>*.s</mask>
-      <mask>*.p</mask>
       <mask>t.php</mask>
       <mask>te.php</mask>
       <mask>tem.php</mask>
@@ -28,13 +27,15 @@
       <mask>*.pjs</mask>
       <mask>*.pjsx</mask>
       <mask>*.jsx</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.зрз</mask>
       <mask>*.зр</mask>
       <mask>*.з</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
