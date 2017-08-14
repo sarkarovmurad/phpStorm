@@ -6,16 +6,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="init" />
     <recentFileMasks>
-      <mask>*.sass</mask>
-      <mask>*.sas</mask>
-      <mask>*.sa</mask>
-      <mask>*.s</mask>
-      <mask>t.php</mask>
-      <mask>te.php</mask>
-      <mask>tem.php</mask>
-      <mask>temp.php</mask>
       <mask>templ.php</mask>
       <mask>templa.php</mask>
       <mask>templat.php</mask>
@@ -24,7 +16,6 @@
       <mask>.js</mask>
       <mask>.j</mask>
       <mask>.</mask>
-      <mask>.php</mask>
       <mask>*.pj</mask>
       <mask>*.pjs</mask>
       <mask>*.pjsx</mask>
@@ -38,6 +29,15 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>.php</mask>
+      <mask>i.php</mask>
+      <mask>in.php</mask>
+      <mask>ini.php</mask>
+      <mask>init.php</mask>
+      <mask>initphp</mask>
+      <mask>inithp</mask>
+      <mask>initp</mask>
+      <mask>init</mask>
     </recentFileMasks>
   </component>
 </application>
