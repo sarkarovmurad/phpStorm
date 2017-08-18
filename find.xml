@@ -6,6 +6,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>templat.php</mask>
       <mask>template.php</mask>
@@ -20,9 +21,6 @@
       <mask>*.зр</mask>
       <mask>*.з</mask>
       <mask>*.ph</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>i.php</mask>
       <mask>in.php</mask>
@@ -37,6 +35,9 @@
       <mask>.ph</mask>
       <mask>.php</mask>
       <mask>*.php</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
