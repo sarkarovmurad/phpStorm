@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="notifyexception" type="PHP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Role" type="PLAIN_TEXT" />
+      <mapping pattern=".gitingore" type="PLAIN_TEXT" />
+      <mapping ext="2185734305" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
