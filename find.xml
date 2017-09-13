@@ -4,14 +4,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>.</mask>
       <mask>.p</mask>
       <mask>.ph</mask>
-      <mask>*.з</mask>
-      <mask>*.зрз</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>t.php</mask>
       <mask>te.php</mask>
       <mask>tem.php</mask>
@@ -21,7 +17,6 @@
       <mask>templat.php</mask>
       <mask>template.php</mask>
       <mask>.php</mask>
-      <mask>*.php</mask>
       <mask>*.оы</mask>
       <mask>*.о</mask>
       <mask>*.k</mask>
@@ -30,11 +25,17 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
+      <mask>*.зрз</mask>
+      <mask>*.зр</mask>
+      <mask>*.з</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
