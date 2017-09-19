@@ -54,6 +54,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
