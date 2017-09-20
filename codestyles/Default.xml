@@ -1,6 +1,6 @@
 <code_scheme name="Default">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="RIGHT_MARGIN" value="200" />
   <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
@@ -11,8 +11,8 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
