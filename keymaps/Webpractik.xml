@@ -54,6 +54,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
@@ -64,6 +67,21 @@
   </action>
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
