@@ -1,0 +1,7 @@
+<templateSet group="Jquery">
+  <template name="ready" value="jQuery(document).ready(function($) {&#10;&#9;$END$&#10;});" description="Jquery Ready" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

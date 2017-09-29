@@ -1,7 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".htaccess.restore" type="PLAIN_TEXT" />
+      <mapping pattern="access_log" type="Native" />
+      <mapping pattern="notifyexception" type="PHP" />
+      <mapping pattern="Role" type="PLAIN_TEXT" />
+      <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
+      <mapping pattern=".gitingore" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="2185734305" type="PLAIN_TEXT" />
+      <mapping ext="conf_custom" type="htaccess" />
     </extensionMap>
   </component>
 </application>
