@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -21,7 +20,6 @@
       <mask>*.css</mask>
       <mask>*.p</mask>
       <mask>*.sa</mask>
-      <mask>*.js</mask>
       <mask>*s</mask>
       <mask>*sa</mask>
       <mask>*sas</mask>
@@ -37,6 +35,7 @@
       <mask>*.sas</mask>
       <mask>*.sass</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
