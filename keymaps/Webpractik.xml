@@ -47,6 +47,10 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoNextError" />
+  <action id="NewElementSamePlace" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+  </action>
   <action id="ParameterInfo" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
