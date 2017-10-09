@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="importFieldsFromCrmLogError" type="PLAIN_TEXT" />
       <mapping pattern="importFieldsFromCrmLog" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
