@@ -7,6 +7,9 @@
       <webServer id="5afc6f92-b9fa-49f9-9094-4bf0bd276e22" name="cp.webpractik.dev" url="http://cp.webpractik.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="95f4df66-346f-4921-b0d9-32f6a3fcacb4" name="generation-startup.dev" url="http://generation-startup.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
