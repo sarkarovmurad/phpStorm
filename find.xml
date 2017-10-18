@@ -7,10 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -35,9 +33,12 @@
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sas</mask>
-      <mask>*.sass</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.jsa</mask>
+      <mask>*.jsas</mask>
+      <mask>*.jsass</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
