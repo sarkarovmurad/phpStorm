@@ -4,6 +4,9 @@
       <mapping pattern="alertsubscribe" type="PHP" />
       <mapping pattern="importFieldsFromCrmLogError" type="PLAIN_TEXT" />
       <mapping pattern="importFieldsFromCrmLog" type="PLAIN_TEXT" />
+      <mapping pattern="exportFieldsToCrmLogError" type="PLAIN_TEXT" />
+      <mapping pattern="app-save" type="PLAIN_TEXT" />
+      <mapping pattern="exportToCrmLogError" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
