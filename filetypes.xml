@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="alertsubscribe" type="PHP" />
       <mapping pattern="importFieldsFromCrmLogError" type="PLAIN_TEXT" />
+      <mapping pattern="exportFieldsToCrmLog" type="PLAIN_TEXT" />
+      <mapping pattern="exportToCrmLog" type="PLAIN_TEXT" />
       <mapping pattern="importFieldsFromCrmLog" type="PLAIN_TEXT" />
       <mapping pattern="exportFieldsToCrmLogError" type="PLAIN_TEXT" />
       <mapping pattern="app-save" type="PLAIN_TEXT" />
