@@ -93,6 +93,9 @@
   <action id="ViewStatusBar">
     <keyboard-shortcut first-keystroke="ctrl alt multiply" />
   </action>
+  <action id="WebDeployment.ToggleAutoUpload">
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="add_lang_file_annotation">
