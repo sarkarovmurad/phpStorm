@@ -5,7 +5,7 @@
     <option name="FONT_SCALE" value="1.0833334" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="200" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="2000" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
