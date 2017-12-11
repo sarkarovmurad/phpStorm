@@ -102,4 +102,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt quote" />
   </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl alt tab" />
+  </action>
 </keymap>
