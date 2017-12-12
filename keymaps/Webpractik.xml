@@ -1,4 +1,7 @@
 <keymap version="1" name="Webpractik" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -27,6 +30,9 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
