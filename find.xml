@@ -27,13 +27,13 @@
       <mask>*.s</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
