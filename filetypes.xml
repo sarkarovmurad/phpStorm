@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="alertsubscribe" type="PHP" />
       <mapping pattern="paymendremove" type="PHP" />
+      <mapping pattern="app-save-test" type="PLAIN_TEXT" />
       <mapping pattern="exportFieldsToCrmLogError" type="PLAIN_TEXT" />
       <mapping pattern="exportFieldsToCrmLog" type="PLAIN_TEXT" />
       <mapping pattern="importFieldsFromCrmLogError" type="PLAIN_TEXT" />
