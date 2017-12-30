@@ -1,8 +1,10 @@
 <application>
-  <component name="DiffSettings">
+  <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="ChangesView">
-        <PlaceSettings />
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
