@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*s</mask>
       <mask>*sa</mask>
@@ -20,7 +21,6 @@
       <mask>*.з</mask>
       <mask>*.оы</mask>
       <mask>*.о</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
@@ -35,6 +35,7 @@
       <mask>*.ss</mask>
       <mask>*.lss</mask>
       <mask>*.less</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
