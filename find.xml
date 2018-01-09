@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*sass</mask>
       <mask>*m</mask>
@@ -28,7 +28,6 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.js$</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.зрз</mask>
       <mask>*.зр</mask>
@@ -37,6 +36,7 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
