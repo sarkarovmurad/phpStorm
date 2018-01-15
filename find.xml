@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.svg" />
     <recentFileMasks>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -25,16 +24,17 @@
       <mask>*men</mask>
       <mask>*menu</mask>
       <mask>*menu*</mask>
-      <mask>*.s</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
       <mask>*.j</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.svg</mask>
     </recentFileMasks>
   </component>
 </application>
