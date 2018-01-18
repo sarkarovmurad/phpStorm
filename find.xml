@@ -3,17 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="index.php" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*p</mask>
-      <mask>*ph</mask>
-      <mask>*php</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.sa</mask>
       <mask>*s</mask>
       <mask>*sa</mask>
       <mask>*sas</mask>
@@ -34,6 +25,16 @@
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>.js</mask>
+      <mask>i.js</mask>
+      <mask>in.js</mask>
+      <mask>ind.js</mask>
+      <mask>inde.js</mask>
+      <mask>index.js</mask>
+      <mask>index.s</mask>
+      <mask>index.</mask>
+      <mask>index.p</mask>
+      <mask>index.php</mask>
     </recentFileMasks>
   </component>
 </application>
