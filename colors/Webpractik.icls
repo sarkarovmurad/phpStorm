@@ -1,22 +1,22 @@
 <scheme name="Webpractik" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.1666666" />
   <metaInfo>
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-09-21T13:39:36</property>
+    <property name="modified">2018-01-23T01:54:46</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -402,6 +402,12 @@
     <option name="Class">
       <value />
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="11942b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="7a9d79" />
@@ -457,6 +463,12 @@
     </option>
     <option name="DEFAULT_DOT">
       <value />
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="6f6c66" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
