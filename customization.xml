@@ -10,11 +10,28 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Remote External Tools" is_group="true" action_type="1" position="21">
+    <group seperator="true" action_type="1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CollapseAllRegions" is_action="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExpandAllRegions" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Remote External Tools" is_group="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="ExpandAllRegions" icon="$USER_HOME$/Изображения/expand-small.png" />
+    <action id="CollapseAllRegions" icon="$USER_HOME$/Изображения/collapse-small.png" />
     <action id="WebDeployment.ToggleAutoUpload" />
   </component>
 </application>
