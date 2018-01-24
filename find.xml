@@ -13,14 +13,12 @@
       <mask>*men</mask>
       <mask>*menu</mask>
       <mask>*menu*</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
       <mask>*.зрз</mask>
       <mask>*.зр</mask>
       <mask>*.з</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>//*.php</mask>
       <mask>/*/*.php</mask>
@@ -29,13 +27,15 @@
       <mask>**/*.php</mask>
       <mask>*/*.php</mask>
       <mask>/*.php</mask>
-      <mask>*.php</mask>
       <mask>*.jsx</mask>
       <mask>*.j</mask>
       <mask>*.cs</mask>
       <mask>*.js$</mask>
-      <mask>*.js</mask>
       <mask>*.css</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
