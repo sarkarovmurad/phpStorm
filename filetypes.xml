@@ -1,19 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="alertsubscribe" type="PHP" />
-      <mapping pattern="paymendremove" type="PHP" />
-      <mapping pattern="app-save-test" type="PLAIN_TEXT" />
-      <mapping pattern="exportFieldsToCrmLogError" type="PLAIN_TEXT" />
-      <mapping pattern="exportFieldsToCrmLog" type="PLAIN_TEXT" />
-      <mapping pattern="importFieldsFromCrmLogError" type="PLAIN_TEXT" />
-      <mapping pattern="exportToCrmLog" type="PLAIN_TEXT" />
-      <mapping pattern="app-save" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
-      <mapping pattern="importFieldsFromCrmLog" type="PLAIN_TEXT" />
-      <mapping pattern="exportToCrmLogError" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping pattern="access_log" type="Native" />
+      <mapping pattern="notifyexception" type="PHP" />
+      <mapping pattern="Role" type="PLAIN_TEXT" />
+      <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
+      <mapping pattern=".gitingore" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="2185734305" type="PLAIN_TEXT" />
+      <mapping ext="conf_custom" type="htaccess" />
     </extensionMap>
   </component>
 </application>

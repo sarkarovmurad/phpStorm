@@ -2,39 +2,37 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*p</mask>
+      <mask>*ph</mask>
+      <mask>*php</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*.sa</mask>
+      <mask>*s</mask>
+      <mask>*sa</mask>
+      <mask>*sas</mask>
       <mask>*sass</mask>
       <mask>*m</mask>
       <mask>*me</mask>
       <mask>*men</mask>
       <mask>*menu</mask>
       <mask>*menu*</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
-      <mask>//*.php</mask>
-      <mask>/*/*.php</mask>
-      <mask>*/**/*.php</mask>
-      <mask>/**/*.php</mask>
-      <mask>**/*.php</mask>
-      <mask>*/*.php</mask>
-      <mask>/*.php</mask>
-      <mask>*.jsx</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.js$</mask>
-      <mask>*.зрз</mask>
-      <mask>*.зр</mask>
-      <mask>*.з</mask>
+      <mask>*.j</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>

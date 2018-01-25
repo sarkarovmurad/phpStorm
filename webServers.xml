@@ -1,18 +1,7 @@
 <application>
   <component name="WebServers">
-    <sftpAdvancedGlobalOptions>
-      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
-        <option name="hostKeyCheckingLevel" value="NO" />
-      </SftpAdvancedOptions>
-    </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="829b191f-4c6a-4e60-b984-4ede7902d6e8" name="censor.dev" url="http://censor.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="5afc6f92-b9fa-49f9-9094-4bf0bd276e22" name="cp.webpractik.dev" url="http://cp.webpractik.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="95f4df66-346f-4921-b0d9-32f6a3fcacb4" name="generation-startup.dev" url="http://generation-startup.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
