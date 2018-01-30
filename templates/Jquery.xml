@@ -4,7 +4,8 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ajax" value="$.ajax({&#10;&#9;url: '/path/to/file',&#10;&#9;type: 'default GET (Other values: POST)',&#10;&#9;dataType: 'default: Intelligent Guess (Other values: xml, json, script, or html)',&#10;&#9;data: {param1: 'value1'},&#10;})&#10;.done(function() {&#10;&#9;console.log(&quot;success&quot;);&#10;})&#10;.fail(function() {&#10;&#9;console.log(&quot;error&quot;);&#10;})&#10;.always(function() {&#10;&#9;console.log(&quot;complete&quot;);&#10;});" description="Ajax" toReformat="false" toShortenFQNames="true">
+  <template name="ajax" value="$.ajax({&#10;&#9;url: '$path$',&#10;&#9;type: 'POST',&#10;&#9;dataType: 'json',&#10;&#9;data: {param1: 'value1'},&#10;})&#10;.done(function(response) {&#10;&#9;console.log(&quot;success&quot;);&#10;})&#10;.fail(function() {&#10;&#9;console.log(&quot;error&quot;);&#10;})&#10;.always(function() {&#10;&#9;console.log(&quot;complete&quot;);&#10;});" description="Ajax" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
