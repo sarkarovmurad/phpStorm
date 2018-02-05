@@ -3,12 +3,15 @@
     <extensionMap>
       <mapping pattern="access_log" type="Native" />
       <mapping pattern="notifyexception" type="PHP" />
-      <mapping pattern="Role" type="PLAIN_TEXT" />
+      <mapping pattern="app-save-test" type="PLAIN_TEXT" />
       <mapping pattern="register-log" type="PLAIN_TEXT" />
-      <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
-      <mapping pattern=".gitingore" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Role" type="PLAIN_TEXT" />
+      <mapping pattern="app-save" type="PLAIN_TEXT" />
+      <mapping pattern="rock-app-save-test" type="PLAIN_TEXT" />
+      <mapping pattern=".gitingore" type="PLAIN_TEXT" />
       <mapping ext="2185734305" type="PLAIN_TEXT" />
       <mapping ext="conf_custom" type="htaccess" />
     </extensionMap>
