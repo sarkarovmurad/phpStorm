@@ -15,6 +15,9 @@
       <webServer id="95f4df66-346f-4921-b0d9-32f6a3fcacb4" name="generation-startup.dev" url="http://generation-startup.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e711b19b-9b73-4170-b37c-a5cf86cb9d18" name="laravel.dev" url="http://laravel.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
