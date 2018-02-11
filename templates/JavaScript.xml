@@ -21,4 +21,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="forin" value="for ($KEY$ in $OBJECT$) {&#10;  var $VAR$ = $OBJECT$[$KEY$];&#10;  $END$&#10;}" description="Iterate elements of object" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

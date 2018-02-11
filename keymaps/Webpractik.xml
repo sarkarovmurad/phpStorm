@@ -1,4 +1,7 @@
 <keymap version="1" name="Webpractik" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -27,6 +30,9 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -47,12 +53,19 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoNextError" />
+  <action id="NewElementSamePlace" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+  </action>
   <action id="ParameterInfo" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
@@ -65,16 +78,37 @@
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
   <action id="ViewStatusBar">
     <keyboard-shortcut first-keystroke="ctrl alt multiply" />
   </action>
+  <action id="WebDeployment.ToggleAutoUpload">
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="add_lang_file_annotation">
     <keyboard-shortcut first-keystroke="shift meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl alt tab" />
   </action>
 </keymap>
