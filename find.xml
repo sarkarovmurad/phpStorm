@@ -3,19 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="template.php" />
     <recentFileMasks>
-      <mask>*m</mask>
-      <mask>*me</mask>
-      <mask>*men</mask>
-      <mask>*menu</mask>
-      <mask>*menu*</mask>
-      <mask>*.sas</mask>
-      <mask>*.sass</mask>
-      <mask>*</mask>
-      <mask>*.s</mask>
-      <mask>*.svg</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>i.js</mask>
       <mask>in.js</mask>
       <mask>ind.js</mask>
@@ -25,7 +14,6 @@
       <mask>index.</mask>
       <mask>index.p</mask>
       <mask>index.php</mask>
-      <mask>*.php</mask>
       <mask>.js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -34,6 +22,19 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.php</mask>
+      <mask>.php</mask>
+      <mask>t.php</mask>
+      <mask>te.php</mask>
+      <mask>tem.php</mask>
+      <mask>temo.php</mask>
+      <mask>temol.php</mask>
+      <mask>temola.php</mask>
+      <mask>temolat.php</mask>
+      <mask>temolatw.php</mask>
+      <mask>temolate.php</mask>
+      <mask>temlate.php</mask>
+      <mask>template.php</mask>
     </recentFileMasks>
   </component>
 </application>
