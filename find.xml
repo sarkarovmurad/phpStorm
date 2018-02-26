@@ -2,11 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*js" />
     <recentFileMasks>
-      <mask>i.js</mask>
       <mask>in.js</mask>
       <mask>ind.js</mask>
       <mask>inde.js</mask>
@@ -36,6 +34,7 @@
       <mask>template.php</mask>
       <mask>.php</mask>
       <mask>*.php</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
