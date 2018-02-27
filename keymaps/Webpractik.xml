@@ -109,6 +109,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt quote" />
   </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
-    <keyboard-shortcut first-keystroke="ctrl alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
 </keymap>
