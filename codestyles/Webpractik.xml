@@ -1,4 +1,4 @@
-<code_scheme name="Webpractik">
+<code_scheme name="Webpractik" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="200" />
   <option name="HTML_TEXT_WRAP" value="0" />
@@ -9,6 +9,11 @@
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
@@ -98,9 +103,6 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
     <arrangement>
       <groups />
       <rules>
