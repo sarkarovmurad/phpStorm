@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>in.js</mask>
       <mask>ind.js</mask>
       <mask>inde.js</mask>
       <mask>index.js</mask>
@@ -34,6 +33,7 @@
       <mask>.php</mask>
       <mask>*.php</mask>
       <mask>*js</mask>
+      <mask>*crm*.php</mask>
     </recentFileMasks>
   </component>
 </application>
