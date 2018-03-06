@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>ind.js</mask>
       <mask>inde.js</mask>
@@ -33,9 +34,9 @@
       <mask>temlate.php</mask>
       <mask>template.php</mask>
       <mask>.php</mask>
-      <mask>*.php</mask>
       <mask>*js</mask>
       <mask>*crm*.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
