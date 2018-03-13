@@ -4,19 +4,19 @@
     <property name="created">2017-05-18T01:01:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-09-21T13:39:36</property>
+    <property name="modified">2018-03-07T16:49:54</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -402,6 +402,12 @@
     <option name="Class">
       <value />
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="11942b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="7a9d79" />
@@ -457,6 +463,12 @@
     </option>
     <option name="DEFAULT_DOT">
       <value />
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="6f6c66" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
@@ -946,7 +958,6 @@
       <value>
         <option name="FOREGROUND" value="568e4d" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="526d4a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1785,8 +1796,7 @@
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="ff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="847050" />
       </value>
     </option>
     <option name="XML_NS_PREFIX">

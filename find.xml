@@ -2,37 +2,39 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>ind.js</mask>
-      <mask>inde.js</mask>
-      <mask>index.js</mask>
-      <mask>index.s</mask>
-      <mask>index.</mask>
-      <mask>index.p</mask>
-      <mask>index.php</mask>
-      <mask>.js</mask>
-      <mask>*.js</mask>
+      <mask>*sas</mask>
+      <mask>*sass</mask>
+      <mask>*m</mask>
+      <mask>*me</mask>
+      <mask>*men</mask>
+      <mask>*menu</mask>
+      <mask>*menu*</mask>
+      <mask>*.s</mask>
+      <mask>*.sas</mask>
+      <mask>*.sass</mask>
+      <mask>*.зрз</mask>
+      <mask>*.зр</mask>
+      <mask>*.з</mask>
+      <mask>*.p</mask>
+      <mask>//*.php</mask>
+      <mask>/*/*.php</mask>
+      <mask>*/**/*.php</mask>
+      <mask>/**/*.php</mask>
+      <mask>**/*.php</mask>
+      <mask>*/*.php</mask>
+      <mask>/*.php</mask>
+      <mask>*.jsx</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.ca</mask>
-      <mask>*.c</mask>
       <mask>*.cs</mask>
+      <mask>*.js$</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
       <mask>*.css</mask>
-      <mask>t.php</mask>
-      <mask>te.php</mask>
-      <mask>tem.php</mask>
-      <mask>temo.php</mask>
-      <mask>temol.php</mask>
-      <mask>temola.php</mask>
-      <mask>temolat.php</mask>
-      <mask>temolatw.php</mask>
-      <mask>temolate.php</mask>
-      <mask>temlate.php</mask>
-      <mask>template.php</mask>
-      <mask>.php</mask>
-      <mask>*js</mask>
-      <mask>*crm*.php</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
