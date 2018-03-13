@@ -5,5 +5,15 @@
         <option name="hostKeyCheckingLevel" value="NO" />
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="c0a92ca5-3563-493c-ac6e-c7e0017b7aff" name="test-project" url="http://sergey-it7-0.myjino.ru">
+        <fileTransfer host="sergey-it7-0.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
   </component>
 </application>
