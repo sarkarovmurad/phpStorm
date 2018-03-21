@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="alertsubscribe" type="PHP" />
       <mapping pattern="paymendremove" type="PHP" />
+      <removed_mapping ext="php" type="PHP" />
       <mapping pattern="app-save-test" type="PLAIN_TEXT" />
       <mapping pattern="exportFieldsToCrmLogError" type="PLAIN_TEXT" />
       <mapping pattern="exportFieldsToCrmLog" type="PLAIN_TEXT" />
@@ -10,9 +11,10 @@
       <mapping pattern="exportToCrmLog" type="PLAIN_TEXT" />
       <mapping pattern="app-save" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
-      <mapping pattern="exportToCrmLogError" type="PLAIN_TEXT" />
       <mapping pattern="importFieldsFromCrmLog" type="PLAIN_TEXT" />
+      <mapping pattern="exportToCrmLogError" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
