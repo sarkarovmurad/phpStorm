@@ -10,8 +10,8 @@
       <mapping pattern="exportToCrmLog" type="PLAIN_TEXT" />
       <mapping pattern="app-save" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
-      <mapping pattern="importFieldsFromCrmLog" type="PLAIN_TEXT" />
       <mapping pattern="exportToCrmLogError" type="PLAIN_TEXT" />
+      <mapping pattern="importFieldsFromCrmLog" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
