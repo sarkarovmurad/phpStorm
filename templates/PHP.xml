@@ -12,8 +12,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="du" value="\Bitrix\Main\Diag\Debug::dump($var$);" description="\Bitrix\Main\Diag\Debug::dump" toReformat="false" toShortenFQNames="true">
-    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="du" value="\Bitrix\Main\Diag\Debug::dumpToFile($var, date('d.m.Y H:i:s'), 'rock-debug.log');" description="\Bitrix\Main\Diag\Debug::dumpToFile" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
