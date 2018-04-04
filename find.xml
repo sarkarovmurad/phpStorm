@@ -1,42 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
-    <recentFileMasks>
-      <mask>*sas</mask>
-      <mask>*sass</mask>
-      <mask>*m</mask>
-      <mask>*me</mask>
-      <mask>*men</mask>
-      <mask>*menu</mask>
-      <mask>*menu*</mask>
-      <mask>*.s</mask>
-      <mask>*.sas</mask>
-      <mask>*.sass</mask>
-      <mask>*.зрз</mask>
-      <mask>*.зр</mask>
-      <mask>*.з</mask>
-      <mask>*.p</mask>
-      <mask>//*.php</mask>
-      <mask>/*/*.php</mask>
-      <mask>*/**/*.php</mask>
-      <mask>/**/*.php</mask>
-      <mask>**/*.php</mask>
-      <mask>*/*.php</mask>
-      <mask>/*.php</mask>
-      <mask>*.jsx</mask>
-      <mask>*.j</mask>
-      <mask>*.cs</mask>
-      <mask>*.js$</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.css</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
