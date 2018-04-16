@@ -1,4 +1,8 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="13" />
+    <option name="FONT_SCALE" value="1.0833334" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="200" />
@@ -11,8 +15,5 @@
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
