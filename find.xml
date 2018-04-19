@@ -2,16 +2,15 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*sass</mask>
-      <mask>*m</mask>
       <mask>*me</mask>
       <mask>*men</mask>
       <mask>*menu</mask>
       <mask>*menu*</mask>
-      <mask>*.s</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
       <mask>*.зрз</mask>
@@ -29,12 +28,15 @@
       <mask>*.js$</mask>
       <mask>*</mask>
       <mask>*.css</mask>
+      <mask>*.j</mask>
+      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
+      <mask>*.l</mask>
+      <mask>*.ls</mask>
+      <mask>*.s</mask>
       <mask>*.js</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
