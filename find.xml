@@ -4,37 +4,15 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
-    <recentFileMasks>
-      <mask>*sass</mask>
-      <mask>*m</mask>
-      <mask>*me</mask>
-      <mask>*men</mask>
-      <mask>*menu</mask>
-      <mask>*menu*</mask>
-      <mask>*.s</mask>
-      <mask>*.sas</mask>
-      <mask>*.sass</mask>
-      <mask>*.зрз</mask>
-      <mask>*.зр</mask>
-      <mask>*.з</mask>
-      <mask>//*.php</mask>
-      <mask>/*/*.php</mask>
-      <mask>*/**/*.php</mask>
-      <mask>/**/*.php</mask>
-      <mask>**/*.php</mask>
-      <mask>*/*.php</mask>
-      <mask>/*.php</mask>
-      <mask>*.jsx</mask>
-      <mask>*.cs</mask>
-      <mask>*.js$</mask>
-      <mask>*</mask>
-      <mask>*.css</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
