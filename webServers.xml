@@ -7,7 +7,7 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="a9be6511-4155-43e1-93eb-5e263604650b" name="demo0 - PROD" url="http://demo0.webpractik.ru">
-        <fileTransfer host="188.120.229.61" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/demo0-webpractik/data" accessType="SFTP" keyPair="true">
+        <fileTransfer host="188.120.229.61" port="22" rootFolder="/var/www/demo0-webpractik/data" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
