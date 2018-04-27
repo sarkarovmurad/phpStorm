@@ -2,39 +2,19 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
-    <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.pph</mask>
-      <mask>*.pp</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*ls</mask>
-      <mask>*l</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*</mask>
-      <mask>*php</mask>
-      <mask>i*php</mask>
-      <mask>ini*php</mask>
-      <mask>init*php</mask>
-      <mask>init,php</mask>
-      <mask>init.php</mask>
-      <mask>initphp</mask>
-      <mask>inithp</mask>
-      <mask>initp</mask>
-      <mask>*init*</mask>
-      <mask>init*</mask>
-      <mask>init</mask>
-      <mask>ini</mask>
-      <mask>.</mask>
-      <mask>.p</mask>
-      <mask>.ph</mask>
-      <mask>.php</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
