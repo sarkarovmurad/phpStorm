@@ -4,6 +4,23 @@
     <option name="FONT_FAMILY" value="Ubuntu Mono" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CSS" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="Haml" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="PHP" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="TypeScript" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="200" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="2000" />
