@@ -16,6 +16,7 @@
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="php-" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
