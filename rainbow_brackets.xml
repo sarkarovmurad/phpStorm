@@ -5,5 +5,7 @@
     <option name="enableRainbowSquareBrackets" value="false" />
     <option name="enableRainbowSquigglyBrackets" value="false" />
     <option name="rainbowEnabled" value="false" />
+    <option name="rainbowifyHTMLInsideJS" value="true" />
+    <option name="version" value="5.8" />
   </component>
 </application>
