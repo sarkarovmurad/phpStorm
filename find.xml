@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,7 +16,7 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
-    <mask>*.php</mask>
     <mask>*.sass</mask>
+    <mask>*.php</mask>
   </component>
 </application>

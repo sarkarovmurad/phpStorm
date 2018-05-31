@@ -1,56 +1,16 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="HelpTopics" is_action="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="11">
+    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="18">
+    <group value="Tool Windows" is_group="true" action_type="1" position="1">
       <path value="root" />
-      <path value="Main Toolbar" />
+      <path value="Main menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup.Download" is_action="true" action_type="1" position="19">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="20">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorToggleUseSoftWraps" is_action="true" action_type="1" position="21">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="22">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CollapseAllRegions" is_action="true" action_type="1" position="23">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ExpandAllRegions" is_action="true" action_type="1" position="24">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="25">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Remote External Tools" is_group="true" action_type="1" position="26">
+    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
