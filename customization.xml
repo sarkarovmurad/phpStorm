@@ -1,0 +1,22 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool Windows" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="ExpandAllRegions" icon="$USER_HOME$/Изображения/expand-small.png" />
+    <action id="CollapseAllRegions" icon="$USER_HOME$/Изображения/collapse-small.png" />
+    <action id="WebDeployment.ToggleAutoUpload" />
+  </component>
+</application>
