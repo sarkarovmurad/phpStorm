@@ -4,12 +4,6 @@
       <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" timeout="2000" tool_path="$USER_HOME$/.config/composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\devsoft\php\php.exe" id="c9c6b725-95c7-4fb0-8ee9-797570c82381" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\server\modules\php\PHP-5.6\php.exe" id="3a5b5e83-81f9-4c4f-aad4-7876cee92828" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
