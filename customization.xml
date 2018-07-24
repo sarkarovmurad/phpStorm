@@ -43,6 +43,21 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CollapseAllRegions" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExpandAllRegions" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="ExpandAllRegions" icon="$USER_HOME$/Изображения/expand-small.png" />
     <action id="CollapseAllRegions" icon="$USER_HOME$/Изображения/collapse-small.png" />
     <action id="WebDeployment.ToggleAutoUpload" />
