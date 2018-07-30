@@ -12,6 +12,7 @@
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="importFieldsFromCrmLog" type="PLAIN_TEXT" />
+      <mapping pattern="sess_vid2b1fe4dpraji9r0enqrqib3" type="PLAIN_TEXT" />
       <mapping pattern=".my.cnf" type="PLAIN_TEXT" />
       <mapping pattern="exportToCrmLogError" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
