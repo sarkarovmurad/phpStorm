@@ -46,6 +46,10 @@
           <option name="url" value="git@github.com:webpractik/double-validate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.eksmo.net" />
+          <option name="userName" value="zhzhonovsergey@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
