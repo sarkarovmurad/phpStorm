@@ -10,7 +10,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="prolog" value="require $_SERVER['DOCUMENT_ROOT'] . '\bitrix\modules\main\include\prolog_before.php';" toReformat="false" toShortenFQNames="true">
+  <template name="prolog" value="require $_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/main/include/prolog_before.php';" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
