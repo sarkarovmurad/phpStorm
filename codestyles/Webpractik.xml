@@ -40,7 +40,28 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings>
+  <SqlCodeStyleSettings version="0">
+    <option name="myVersion" value="0" />
+    <option name="ALIAS_CASE" value="4" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="SET_EL_COMMA" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="WITH_EL_COMMA" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_EL_COMMA" value="1" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="WHERE_EL_BOUND" value="2" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ORDER_EL_COMMA" value="1" />
+    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="CORTEGE_COMMA_1ST" value="true" />
+    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
+    <option name="EXPR_CASE_THEN_WRAP" value="true" />
+    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
     <option name="NEW_LINE_BEFORE_COMMA" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
@@ -52,7 +73,6 @@
     <option name="WRAP_INSIDE_WHERE" value="5" />
     <option name="WRAP_INSIDE_ORDER_BY" value="0" />
     <option name="WRAP_INSIDE_SET" value="0" />
-    <option name="WRAP_INSIDE_BINARY_EXPRESSION" value="0" />
     <option name="WRAP_INSIDE_ARGUMENT_DEFINITION" value="0" />
     <option name="WRAP_INSIDE_CALL_EXPRESSION" value="0" />
     <option name="WRAP_INSIDE_VALUES_EXPRESSION" value="0" />
@@ -74,6 +94,11 @@
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="200" />
