@@ -15,4 +15,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="du" value="\Bitrix\Main\Diag\Debug:writeToFile($var$, '$var$', 'rock.log');" description="\Bitrix\Main\Diag\Debug::dump" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
