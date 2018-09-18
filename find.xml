@@ -13,6 +13,7 @@
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
+    <mask>filter-status-modal__button</mask>
     <mask>*.js</mask>
     <mask>*.sass</mask>
   </component>
