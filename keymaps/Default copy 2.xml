@@ -11,6 +11,8 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -27,4 +29,5 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="Uml.ShowDiff" />
 </keymap>
