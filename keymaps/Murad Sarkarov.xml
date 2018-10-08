@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 2" parent="$default">
+<keymap version="1" name="Murad Sarkarov" parent="$default">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -28,6 +28,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
     <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Uml.ShowDiff" />
 </keymap>
