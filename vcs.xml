@@ -50,6 +50,10 @@
           <option name="url" value="http://git.eksmo.net" />
           <option name="userName" value="zhzhonovsergey@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="anetty" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
