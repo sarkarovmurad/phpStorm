@@ -18,8 +18,19 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
