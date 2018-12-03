@@ -1,12 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="TypeScript" />
-      <blacklist language="JavaScript" />
       <blacklist language="PHP">
         <added pattern="\str_replace(search,replace,subject,count)" />
         <added pattern="\in_array(needle,haystack,strict)" />
-        <added pattern="\CAllMain.IncludeComponent(componentName,componentTemplate,arParams,parentComponent,arFunctionParams)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
