@@ -48,17 +48,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.eksmo.net" />
-          <option name="userName" value="zhzhonovsergey@gmail.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="anetty" />
+          <option name="userName" value="sarkarovmurad@mail.ru" />
         </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
 </application>

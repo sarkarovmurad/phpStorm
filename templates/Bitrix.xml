@@ -10,15 +10,4 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="prolog" value="require $_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/main/include/prolog_before.php';" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="du" value="\Bitrix\Main\Diag\Debug::writeToFile($var$, date('d M Y H:i:s') . ' $var$', 'rock.log');" description="\Bitrix\Main\Diag\Debug::dump" toReformat="false" toShortenFQNames="true">
-    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
 </templateSet>
