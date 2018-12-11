@@ -15,8 +15,8 @@
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>filter-status-modal__button</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.sass</mask>
   </component>
 </application>
