@@ -12,10 +12,10 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>filter-status-modal__button</mask>
-    <mask>*.css</mask>
     <mask>*.sass&quot;</mask>
     <mask>*.js</mask>
     <mask>*.sass</mask>
+    <mask>*.css</mask>
     <mask>*.php</mask>
   </component>
 </application>
