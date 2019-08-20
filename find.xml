@@ -14,9 +14,9 @@
     <mask>filter-status-modal__button</mask>
     <mask>.*.sass</mask>
     <mask>*.css</mask>
-    <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*.sass&quot;</mask>
+    <mask>*.jsx</mask>
     <mask>*.sass</mask>
     <mask>*.php</mask>
   </component>
