@@ -15,9 +15,9 @@
     <mask>*.sass&quot;</mask>
     <mask>.*.sass</mask>
     <mask>*.css</mask>
-    <mask>*.jsx</mask>
     <mask>*.php</mask>
     <mask>*.sass</mask>
+    <mask>*.jsx</mask>
     <mask>*.js</mask>
   </component>
 </application>
