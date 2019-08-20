@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.sass" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,12 +12,12 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>filter-status-modal__button</mask>
-    <mask>*.sass&quot;</mask>
     <mask>.*.sass</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
-    <mask>*.sass</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
+    <mask>*.sass&quot;</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
