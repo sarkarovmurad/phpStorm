@@ -7,6 +7,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -41,6 +44,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -48,5 +54,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="ServiceView.ShowServices" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="Uml.ShowDiff" />
 </keymap>
