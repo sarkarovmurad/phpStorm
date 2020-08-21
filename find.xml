@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,11 +16,11 @@
     <mask>*.sass&quot;</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
-    <mask>*.css</mask>
     <mask>*.less</mask>
     <mask>*.htaccess</mask>
     <mask>*.sass</mask>
     <mask>*.php</mask>
     <mask>*.jsx</mask>
+    <mask>*.css</mask>
   </component>
 </application>
