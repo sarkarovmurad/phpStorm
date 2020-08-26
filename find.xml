@@ -15,12 +15,12 @@
     <mask>.*.sass</mask>
     <mask>*.sass&quot;</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.htaccess</mask>
     <mask>*.css</mask>
-    <mask>*.jsx</mask>
     <mask>*.sass</mask>
+    <mask>*.jsx</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
