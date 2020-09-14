@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env_back" type="PLAIN_TEXT" />
       <mapping ext="sas" type="TypeScript" />
     </extensionMap>
   </component>
