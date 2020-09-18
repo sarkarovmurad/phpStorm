@@ -19,8 +19,8 @@
     <mask>*.htaccess</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.sass</mask>
     <mask>*.jsx</mask>
+    <mask>*.sass</mask>
     <mask>*.php</mask>
   </component>
 </application>
