@@ -17,10 +17,10 @@
     <mask>*.vue</mask>
     <mask>*.less</mask>
     <mask>*.htaccess</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.jsx</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.sass</mask>
   </component>
 </application>
