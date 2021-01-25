@@ -1,7 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern="getClearDomain.tsx" type="AUTO_DETECTED" />
       <mapping pattern=".env_back" type="PLAIN_TEXT" />
       <mapping ext="sas" type="TypeScript" />
     </extensionMap>
