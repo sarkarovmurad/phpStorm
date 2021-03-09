@@ -22,8 +22,8 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
-    <mask>*.ts</mask>
     <mask>*.sass</mask>
+    <mask>*.ts</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
