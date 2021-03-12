@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,10 +22,10 @@
     <mask>*.css</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.jsx</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
     <mask>*.sass</mask>
     <mask>*.tsx</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
