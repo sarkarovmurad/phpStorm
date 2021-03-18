@@ -24,8 +24,8 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
-    <mask>*.tsx</mask>
     <mask>*.jsx</mask>
+    <mask>*.tsx</mask>
     <mask>*.sass</mask>
   </component>
 </application>
