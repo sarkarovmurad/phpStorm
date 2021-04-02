@@ -999,6 +999,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.prisma">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="io.techtrails.intellij.prisma" />
+              <option name="myPluginName" value="Prisma Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
