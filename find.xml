@@ -21,9 +21,9 @@
     <mask>*.json</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.sass</mask>
     <mask>*.php</mask>
+    <mask>*.tsx</mask>
     <mask>*.ts</mask>
   </component>
 </application>
