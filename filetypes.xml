@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".env_back" type="PLAIN_TEXT" />
       <mapping ext="sas" type="TypeScript" />
       <removed_mapping pattern="dsfgsdfgs" approved="true" type="AUTO_DETECTED" />
