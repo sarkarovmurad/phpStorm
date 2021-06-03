@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="ng" type="HTML" />
+      <mapping ext="ng" type="HTML" />
       <mapping pattern=".env_back" type="PLAIN_TEXT" />
       <mapping ext="sas" type="TypeScript" />
-      <removed_mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.spec.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.editor.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.editor.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <removed_mapping pattern="dsfgsdfgs" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="getClearDomain.tsx" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
