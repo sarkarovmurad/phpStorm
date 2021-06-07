@@ -1,11 +1,15 @@
 <keymap version="1" name="Murad Sarkarov" parent="$default">
-  <action id="Back">
-    <mouse-shortcut keystroke="button4" />
-  </action>
+  <action id="Back" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Diff.ShowSettingsPopup" />
-  <action id="Forward">
+  <action id="Forward" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
