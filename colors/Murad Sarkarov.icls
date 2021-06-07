@@ -1,11 +1,11 @@
-<scheme name="Webpractik" version="142" parent_scheme="Default">
+<scheme name="Murad Sarkarov" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-05-18T01:01:11</property>
+    <property name="created">2021-06-07T17:55:50</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2021-05-19T20:47:55</property>
-    <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
+    <property name="ideVersion">2021.1.3.0.0</property>
+    <property name="modified">2021-06-07T17:59:41</property>
+    <property name="originalScheme">Webpractik</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="13" />
@@ -756,9 +756,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="5d8730" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffffff" />
         <option name="ERROR_STRIPE_COLOR" value="5d8e48" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">

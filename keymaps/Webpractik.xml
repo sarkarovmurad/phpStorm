@@ -20,6 +20,7 @@
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="Back" />
   <action id="BaseOnThisFunction" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -45,6 +46,7 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Forward" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
@@ -75,10 +77,17 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
+  <action id="SearchEverywhere.NextTab">
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="SearchEverywhere.PrevTab">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="ShowBookmarks" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl alt q" />
@@ -101,6 +110,8 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
