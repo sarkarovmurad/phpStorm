@@ -4,7 +4,7 @@
     <property name="created">2021-06-07T17:55:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2021-06-08T09:40:21</property>
+    <property name="modified">2021-06-08T10:04:57</property>
     <property name="originalScheme">Webpractik</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -55,7 +55,7 @@
     <option name="ScrollBar.thumbColor" value="999999" />
     <option name="TAB_UNDERLINE" value="" />
     <option name="TEARLINE_COLOR" value="868686" />
-    <option name="WHITESPACES" value="505050" />
+    <option name="WHITESPACES" value="8f8f8f" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -1710,6 +1710,11 @@
       <value>
         <option name="FOREGROUND" value="9876aa" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
