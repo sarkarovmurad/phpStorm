@@ -38,6 +38,7 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoNextError" />
+  <action id="GotoTest" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -52,9 +53,13 @@
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
