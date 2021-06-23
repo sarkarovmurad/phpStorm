@@ -1,11 +1,11 @@
-<scheme name="Webpractik" version="142" parent_scheme="Default">
+<scheme name="Murad Sarkarov" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-05-18T01:01:11</property>
+    <property name="created">2021-06-07T17:55:50</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2021-05-19T20:47:55</property>
-    <property name="originalScheme">Zenburn (Based on the Emacs version) copy</property>
+    <property name="ideVersion">2021.1.3.0.0</property>
+    <property name="modified">2021-06-09T12:24:56</property>
+    <property name="originalScheme">Webpractik</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="13" />
@@ -38,20 +38,24 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="" />
     <option name="INDENT_GUIDE" value="373737" />
-    <option name="LINE_NUMBERS_COLOR" value="888888" />
+    <option name="LINE_NUMBERS_COLOR" value="abbc8a" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="edfdcb" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECENT_LOCATIONS_SELECTION" value="4b4d4d" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="404040" />
+    <option name="RIGHT_MARGIN_COLOR" value="949393" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
-    <option name="SELECTED_TEARLINE_COLOR" value="787878" />
+    <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
     <option name="SELECTION_BACKGROUND" value="666666" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="555555" />
-    <option name="WHITESPACES" value="505050" />
+    <option name="SEPARATOR_BELOW_COLOR" value="3c3f41" />
+    <option name="ScrollBar.thumbColor" value="999999" />
+    <option name="TAB_UNDERLINE" value="" />
+    <option name="TEARLINE_COLOR" value="868686" />
+    <option name="WHITESPACES" value="646464" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -126,6 +130,17 @@
     </option>
     <option name="BNF_TOKEN">
       <value />
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="c4c4c4" />
+        <option name="BACKGROUND" value="d6d6d6" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="b7b7b7" />
+      </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
@@ -756,9 +771,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="5d8730" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="abaaaa" />
         <option name="ERROR_STRIPE_COLOR" value="5d8e48" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1695,6 +1710,16 @@
       <value>
         <option name="FOREGROUND" value="9876aa" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
