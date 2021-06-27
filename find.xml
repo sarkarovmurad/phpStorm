@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sass" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,15 +17,15 @@
     <mask>.*.sass</mask>
     <mask>*.sass&quot;</mask>
     <mask>*.vue</mask>
-    <mask>*.less</mask>
     <mask>*.htaccess</mask>
     <mask>*.css</mask>
     <mask>*.json</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.php</mask>
+    <mask>*.ts</mask>
+    <mask>*.less</mask>
     <mask>*.sass</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
