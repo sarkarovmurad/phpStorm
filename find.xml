@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sass" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,12 +20,12 @@
     <mask>*.htaccess</mask>
     <mask>*.json</mask>
     <mask>*.jsx</mask>
-    <mask>*.less</mask>
     <mask>*.ts</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.tsx</mask>
     <mask>*.sass</mask>
+    <mask>*.less</mask>
+    <mask>*.php</mask>
   </component>
 </application>
