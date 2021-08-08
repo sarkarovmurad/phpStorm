@@ -41,11 +41,11 @@
   <action id="GotoTest" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
-    <mouse-shortcut keystroke="button5" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
-    <mouse-shortcut keystroke="button4" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
