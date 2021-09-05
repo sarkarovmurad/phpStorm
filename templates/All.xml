@@ -1,0 +1,11 @@
+<templateSet group="All">
+  <template name="if" value="if ($statement$) {&#10;    $logic$&#10;}&#10;$end$" description="if" toReformat="false" toShortenFQNames="true">
+    <variable name="statement" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="logic" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

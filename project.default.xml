@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="C:/server/generation.core" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+      </component>
+      <component name="PublishConfigData" autoUpload="On explicit save action">
+        <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

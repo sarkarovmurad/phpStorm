@@ -1,0 +1,13 @@
+<templateSet group="Bitrix">
+  <template name="bxcomponent" value="/**&#10; * @global CMain $APPLICATION&#10; * @var array $arParams&#10; * @var array $arResult&#10; * @var CBitrixComponent $component&#10; * @var CBitrixComponentTemplate $this&#10; * @var string $templateName&#10; * @var string $componentPath&#10; */" description="Bitrix component PHPDoc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bxapp" value="/**&#10; * @global CMain $APPLICATION&#10; */" description="Global Bitrix application" toReformat="false" toShortenFQNames="true" />
+  <template name="track" value="\Bitrix\Main\HttpApplication::getConnection()-&gt;startTracker();&#10;echo '&lt;pre&gt;', $dbResult-&gt;getTrackerQuery()-&gt;getSql(), '&lt;/pre&gt;';&#10;" description="SQL ORM Tracker" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

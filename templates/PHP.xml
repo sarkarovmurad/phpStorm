@@ -1,0 +1,26 @@
+<templateSet group="PHP">
+  <template name="pre" value="echo '&lt;pre&gt;';&#10;print_r($variable$);&#10;echo '&lt;/pre&gt;';" description="Print_r" toReformat="true" toShortenFQNames="true">
+    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for ($$$index$ = 0; $$$index$ &lt; count($$$iterable$); $$$index$++) {&#10;    $END$&#10;}  " description="for ()" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="du" value="\Bitrix\Main\Diag\Debug::dumpToFile($var$, '$var$', 'rock.log');" description="\Bitrix\Main\Diag\Debug::dump" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="err" value="ini_set('display_errors', 1);&#10;ini_set('display_startup_errors', 1);&#10;error_reporting(E_ALL);" description="Вывод php ошибок" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
