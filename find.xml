@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.sass" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,10 +27,10 @@
     <mask>*.jsxё</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
-    <mask>*.sass</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
