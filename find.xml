@@ -6,10 +6,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.tsx" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -19,8 +16,6 @@
     <mask>*.vue</mask>
     <mask>*.htaccess</mask>
     <mask>*.less</mask>
-    <mask>*.php</mask>
-    <mask>*.css</mask>
     <mask>*.sass`</mask>
     <mask>*.jsxё</mask>
     <mask>*.jsx</mask>
@@ -28,6 +23,17 @@
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.sass</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.php</mask>
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
   </component>
