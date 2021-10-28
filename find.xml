@@ -36,9 +36,9 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
+    <mask>*.tsx</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
