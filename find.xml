@@ -25,7 +25,6 @@
     <mask>*.sass</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -37,6 +36,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.tsx</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
