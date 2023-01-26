@@ -5,13 +5,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.sass" />
     <mask>*.vue</mask>
     <mask>*.htaccess</mask>
     <mask>*.less</mask>
     <mask>*.sass`</mask>
     <mask>*.jsxё</mask>
-    <mask>*.json</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -26,7 +25,6 @@
     <mask>*.</mask>
     <mask>*.tsx`</mask>
     <mask>*.jsx</mask>
-    <mask>*.sass</mask>
     <mask>*.js</mask>
     <mask>*</mask>
     <mask>*.ts</mask>
@@ -37,5 +35,7 @@
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
+    <mask>*.json</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
