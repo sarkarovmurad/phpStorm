@@ -29,13 +29,13 @@
     <mask>*.sass</mask>
     <mask>*.js</mask>
     <mask>*</mask>
-    <mask>*.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*js</mask>
     <mask>*ts</mask>
     <mask>*tsx</mask>
     <mask>*sass</mask>
+    <mask>*.tsx</mask>
+    <mask>*.tsx</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
