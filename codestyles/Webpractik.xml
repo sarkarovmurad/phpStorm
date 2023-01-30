@@ -37,7 +37,7 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings version="5">
+  <SqlCodeStyleSettings version="6">
     <option name="TYPE_CASE" value="3" />
     <option name="CUSTOM_TYPE_CASE" value="3" />
     <option name="ALIAS_CASE" value="4" />
@@ -248,9 +248,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
@@ -263,6 +262,13 @@
   <codeStyleSettings language="SQL">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
