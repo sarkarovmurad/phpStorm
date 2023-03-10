@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.vue</mask>
     <mask>*.htaccess</mask>
     <mask>*.less</mask>
@@ -24,7 +24,6 @@
     <mask>*.tsx`</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
-    <mask>*</mask>
     <mask>*js</mask>
     <mask>*ts</mask>
     <mask>*tsx</mask>
@@ -36,5 +35,6 @@
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
+    <mask>*</mask>
   </component>
 </application>
