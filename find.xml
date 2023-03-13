@@ -31,10 +31,10 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*</mask>
-    <mask>*.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.sass</mask>
     <mask>*.</mask>
+    <mask>*.tsx</mask>
+    <mask>*.tsx</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
