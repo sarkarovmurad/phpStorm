@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.vue</mask>
-    <mask>*.htaccess</mask>
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.less</mask>
     <mask>*.sass`</mask>
     <mask>*.jsxё</mask>
