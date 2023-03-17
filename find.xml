@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.less</mask>
     <mask>*.sass`</mask>
     <mask>*.jsxё</mask>
@@ -31,8 +31,8 @@
     <mask>*.</mask>
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
