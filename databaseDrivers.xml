@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.18" />
+    </driver>
     <driver id="documentdb">
       <artifact id="MongoDB" name="MongoDB" use="true" version="1.17" />
     </driver>
