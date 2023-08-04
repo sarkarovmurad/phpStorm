@@ -1,10 +1,11 @@
 <scheme name="ZenburnZ" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="4f80" />
     <option name="CARET_COLOR" value="ffffff" />
