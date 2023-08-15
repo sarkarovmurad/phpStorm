@@ -7,10 +7,10 @@
     <mask>.sass</mask>
     <mask>.tsx</mask>
     <mask>.ts</mask>
-    <mask>*</mask>
-    <mask>*.ts</mask>
-    <mask>*.sass</mask>
     <mask>*.scss</mask>
+    <mask>*</mask>
+    <mask>*.sass</mask>
+    <mask>*.ts</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
