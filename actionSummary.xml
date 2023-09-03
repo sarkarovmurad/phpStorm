@@ -1,58 +1,109 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="3" l="1693759634395" />
+      <i c="7" l="1693761162764" />
+    </e>
+    <e n="ChangesView.Refresh">
+      <i c="5" l="1693760986100" />
     </e>
     <e n="CommentByLineComment">
-      <i c="1" l="1693759524751" />
+      <i c="3" l="1693761497613" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2" l="1693759587227" />
+      <i c="29" l="1693761545752" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="5" l="1693761549910" />
     </e>
     <e n="EditorCopy">
-      <i c="1" l="1693759645799" />
+      <i c="14" l="1693761382069" />
     </e>
     <e n="EditorCut">
-      <i c="2" l="1693759599234" />
+      <i c="5" l="1693761388453" />
     </e>
     <e n="EditorDelete">
-      <i c="6" l="1693759682781" />
+      <i c="19" l="1693761553614" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1693759758261" />
+    </e>
+    <e n="EditorDown">
+      <i c="19" l="1693761552570" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1" l="1693759539763" />
     </e>
+    <e n="EditorEnter">
+      <i c="13" l="1693761397476" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1693760920071" />
+    </e>
     <e n="EditorLeft">
-      <i c="1" l="1693759681600" />
+      <i c="7" l="1693761395427" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="1" l="1693759682564" />
+      <i c="2" l="1693761368340" />
     </e>
     <e n="EditorLineEnd">
-      <i c="1" l="1693759619402" />
+      <i c="16" l="1693761553153" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="2" l="1693759599077" />
+      <i c="5" l="1693761396510" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="2" l="1693761313060" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="8" l="1693761388110" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="4" l="1693761394958" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="6" l="1693759682096" />
     </e>
+    <e n="EditorPaste">
+      <i c="14" l="1693761388776" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="7" l="1693761394155" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="4" l="1693761368177" />
+    </e>
     <e n="EditorRight">
-      <i c="2" l="1693759618228" />
+      <i c="12" l="1693761395125" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="1" l="1693759586541" />
+      <i c="14" l="1693760918156" />
+    </e>
+    <e n="EditorTextEndWithSelection">
+      <i c="1" l="1693759708806" />
+    </e>
+    <e n="EditorUp">
+      <i c="19" l="1693761397220" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="2" l="1693759619983" />
+      <i c="4" l="1693761553416" />
     </e>
     <e n="Find">
       <i c="2" l="1693759592438" />
     </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="3" l="1693761014676" />
+    </e>
     <e n="GotoDeclaration">
       <i c="2" l="1693759662326" />
     </e>
+    <e n="OpenFile">
+      <i c="1" l="1693760499700" />
+    </e>
     <e n="SaveAll">
-      <i c="12" l="1693759683756" />
+      <i c="27" l="1693761555119" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="3" l="1693760914634" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693758309844" />
@@ -64,13 +115,22 @@
       <i c="4" l="1693759594760" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="5" l="1693758796888" />
+      <i c="13" l="1693761065846" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="3" l="1693761016958" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1693761036796" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
-      <i c="3" l="1693759642977" />
+      <i c="4" l="1693759687047" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
       <i c="2" l="1693759648511" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
+      <i c="1" l="1693761021293" />
     </e>
   </component>
 </application>

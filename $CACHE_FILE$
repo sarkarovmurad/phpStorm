@@ -4,6 +4,7 @@
   </component>
   <component name="PhpLanguageFeatureUsagesStatistics">
     <project hash="e8352628" />
+    <project hash="5f62e47f" />
   </component>
   <component name="PluginAdvertiserExtensions"><![CDATA[{
   "plugins": {
@@ -19606,7 +19607,8 @@
           }
         ]
       }
-    }
+    },
+    "lastUpdateTime": 1693760521599
   },
   "dependencies": {
     "featureMap": {
@@ -21210,7 +21212,8 @@
           }
         ]
       }
-    }
+    },
+    "lastUpdateTime": 1693760521709
   }
 }]]></component>
   <component name="PluginFeatureService"><![CDATA[{
@@ -21651,4 +21654,12 @@
     }
   }
 }]]></component>
+  <component name="TypeScriptExternalDefinitionsRegistry">
+    <modules>
+      <module>
+        <name>@types/lodash</name>
+        <version>4.14.197</version>
+      </module>
+    </modules>
+  </component>
 </application>

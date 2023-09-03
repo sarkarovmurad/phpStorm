@@ -5,12 +5,24 @@
         <entry key="$USER_HOME$/projects/liveradio24.com">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2Q5LfUed5oclbJJE11V0y2vdVeF">
-              <option name="activationTimestamp" value="1693759495154" />
+              <option name="activationTimestamp" value="1693761526849" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986597306" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1693758334512" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/webcamera24">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1w37in3dAJzKd1y2OhWHO2Qh5Ms">
+              <option name="activationTimestamp" value="1693760899787" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986597306" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1693760516260" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
