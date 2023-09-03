@@ -1,0 +1,76 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="3" l="1693759634395" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1693759524751" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2" l="1693759587227" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1693759645799" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1693759599234" />
+    </e>
+    <e n="EditorDelete">
+      <i c="6" l="1693759682781" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1693759539763" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1693759681600" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1" l="1693759682564" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1693759619402" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="2" l="1693759599077" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="6" l="1693759682096" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1693759618228" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="1" l="1693759586541" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="2" l="1693759619983" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1693759592438" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="2" l="1693759662326" />
+    </e>
+    <e n="SaveAll">
+      <i c="12" l="1693759683756" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1693758309844" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="2" l="1693759597315" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="4" l="1693759594760" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="5" l="1693758796888" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
+      <i c="3" l="1693759642977" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
+      <i c="2" l="1693759648511" />
+    </e>
+  </component>
+</application>
