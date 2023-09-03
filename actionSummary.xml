@@ -10,10 +10,10 @@
       <i c="4" l="1693764062353" />
     </e>
     <e n="EditorBackSpace">
-      <i c="42" l="1693764112932" />
+      <i c="46" l="1693764597918" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="5" l="1693761549910" />
+      <i c="7" l="1693764573768" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1693764111053" />
@@ -28,19 +28,19 @@
       <i c="20" l="1693763148555" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="5" l="1693764071437" />
+      <i c="6" l="1693764504151" />
     </e>
     <e n="EditorDown">
-      <i c="112" l="1693764162433" />
+      <i c="113" l="1693764573548" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1" l="1693759539763" />
     </e>
     <e n="EditorDuplicate">
-      <i c="2" l="1693764119705" />
+      <i c="3" l="1693764554789" />
     </e>
     <e n="EditorEnter">
-      <i c="21" l="1693764163090" />
+      <i c="23" l="1693764504858" />
     </e>
     <e n="EditorEscape">
       <i c="3" l="1693764122327" />
@@ -52,10 +52,10 @@
       <i c="5" l="1693763148295" />
     </e>
     <e n="EditorLineEnd">
-      <i c="21" l="1693764161281" />
+      <i c="22" l="1693764502585" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="8" l="1693764061731" />
+      <i c="9" l="1693764570564" />
     </e>
     <e n="EditorLineStart">
       <i c="2" l="1693761313060" />
@@ -70,10 +70,10 @@
       <i c="8" l="1693764118982" />
     </e>
     <e n="EditorPaste">
-      <i c="22" l="1693764161602" />
+      <i c="23" l="1693764566408" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="11" l="1693764120654" />
+      <i c="15" l="1693764569922" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="9" l="1693764121254" />
@@ -82,13 +82,13 @@
       <i c="22" l="1693764118682" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="14" l="1693760918156" />
+      <i c="16" l="1693764566120" />
     </e>
     <e n="EditorTextEndWithSelection">
       <i c="1" l="1693759708806" />
     </e>
     <e n="EditorUp">
-      <i c="32" l="1693764160053" />
+      <i c="33" l="1693764502364" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="6" l="1693764061367" />
@@ -109,7 +109,7 @@
       <i c="1" l="1693764113343" />
     </e>
     <e n="SaveAll">
-      <i c="29" l="1693764163635" />
+      <i c="33" l="1693764599809" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="4" l="1693764121456" />
