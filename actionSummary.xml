@@ -1,97 +1,109 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1693770281783" />
+    </e>
     <e n="$Undo">
-      <i c="9" l="1693764160999" />
+      <i c="22" l="1693772160662" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="5" l="1693760986100" />
     </e>
     <e n="CommentByLineComment">
-      <i c="4" l="1693764062353" />
+      <i c="7" l="1693769793308" />
     </e>
     <e n="EditorBackSpace">
-      <i c="46" l="1693764597918" />
+      <i c="92" l="1693771016668" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="7" l="1693764573768" />
+      <i c="8" l="1693769474180" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="1" l="1693764111053" />
+      <i c="2" l="1693770449982" />
     </e>
     <e n="EditorCopy">
-      <i c="19" l="1693764157855" />
+      <i c="42" l="1693770990506" />
     </e>
     <e n="EditorCut">
-      <i c="6" l="1693761705598" />
+      <i c="13" l="1693772155796" />
     </e>
     <e n="EditorDelete">
-      <i c="21" l="1693764605009" />
+      <i c="63" l="1693772159835" />
+    </e>
+    <e n="EditorDeleteToWordEnd">
+      <i c="5" l="1693770951152" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="6" l="1693764504151" />
+      <i c="9" l="1693769278894" />
     </e>
     <e n="EditorDown">
-      <i c="113" l="1693764573548" />
+      <i c="154" l="1693772154327" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="1" l="1693759539763" />
+      <i c="2" l="1693772155414" />
     </e>
     <e n="EditorDuplicate">
-      <i c="3" l="1693764554789" />
+      <i c="4" l="1693770416291" />
     </e>
     <e n="EditorEnter">
-      <i c="23" l="1693764504858" />
+      <i c="46" l="1693770948737" />
     </e>
     <e n="EditorEscape">
-      <i c="3" l="1693764122327" />
+      <i c="6" l="1693770452398" />
     </e>
     <e n="EditorLeft">
-      <i c="15" l="1693764121018" />
+      <i c="43" l="1693771016386" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="5" l="1693763148295" />
+      <i c="8" l="1693769937863" />
     </e>
     <e n="EditorLineEnd">
-      <i c="22" l="1693764502585" />
+      <i c="39" l="1693772158870" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="9" l="1693764570564" />
+      <i c="14" l="1693772159675" />
     </e>
     <e n="EditorLineStart">
-      <i c="2" l="1693761313060" />
+      <i c="7" l="1693770228294" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="9" l="1693764604873" />
+      <i c="15" l="1693771000368" />
     </e>
     <e n="EditorNextWord">
-      <i c="6" l="1693764118358" />
+      <i c="13" l="1693771013952" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="8" l="1693764118982" />
+      <i c="30" l="1693771014234" />
     </e>
     <e n="EditorPaste">
-      <i c="23" l="1693764566408" />
+      <i c="55" l="1693770996217" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="15" l="1693764569922" />
+      <i c="19" l="1693769769847" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="9" l="1693764121254" />
+      <i c="10" l="1693769358573" />
     </e>
     <e n="EditorRight">
-      <i c="22" l="1693764118682" />
+      <i c="55" l="1693771013492" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="16" l="1693764566120" />
+      <i c="29" l="1693770302549" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1693770361065" />
     </e>
     <e n="EditorTextEndWithSelection">
       <i c="1" l="1693759708806" />
     </e>
+    <e n="EditorUnindentSelection">
+      <i c="2" l="1693772157521" />
+    </e>
     <e n="EditorUp">
-      <i c="33" l="1693764502364" />
+      <i c="101" l="1693772156359" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="6" l="1693764061367" />
+      <i c="35" l="1693772153319" />
     </e>
     <e n="Find">
       <i c="2" l="1693759592438" />
@@ -109,10 +121,10 @@
       <i c="1" l="1693764113343" />
     </e>
     <e n="SaveAll">
-      <i c="33" l="1693764599809" />
+      <i c="62" l="1693772160962" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="4" l="1693764121456" />
+      <i c="13" l="1693770995855" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693758309844" />
