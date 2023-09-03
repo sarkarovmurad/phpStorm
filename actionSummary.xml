@@ -10,7 +10,7 @@
       <i c="3" l="1693761497613" />
     </e>
     <e n="EditorBackSpace">
-      <i c="29" l="1693761545752" />
+      <i c="37" l="1693761700646" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="5" l="1693761549910" />
@@ -19,19 +19,22 @@
       <i c="14" l="1693761382069" />
     </e>
     <e n="EditorCut">
-      <i c="5" l="1693761388453" />
+      <i c="6" l="1693761705598" />
     </e>
     <e n="EditorDelete">
       <i c="19" l="1693761553614" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="1" l="1693759758261" />
+      <i c="4" l="1693761700505" />
     </e>
     <e n="EditorDown">
-      <i c="19" l="1693761552570" />
+      <i c="82" l="1693761703849" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1" l="1693759539763" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1693761583817" />
     </e>
     <e n="EditorEnter">
       <i c="13" l="1693761397476" />
@@ -40,16 +43,16 @@
       <i c="1" l="1693760920071" />
     </e>
     <e n="EditorLeft">
-      <i c="7" l="1693761395427" />
+      <i c="11" l="1693761697384" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="2" l="1693761368340" />
     </e>
     <e n="EditorLineEnd">
-      <i c="16" l="1693761553153" />
+      <i c="17" l="1693761697244" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="5" l="1693761396510" />
+      <i c="7" l="1693761705433" />
     </e>
     <e n="EditorLineStart">
       <i c="2" l="1693761313060" />
@@ -70,7 +73,7 @@
       <i c="7" l="1693761394155" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="4" l="1693761368177" />
+      <i c="5" l="1693761695575" />
     </e>
     <e n="EditorRight">
       <i c="12" l="1693761395125" />
@@ -82,10 +85,10 @@
       <i c="1" l="1693759708806" />
     </e>
     <e n="EditorUp">
-      <i c="19" l="1693761397220" />
+      <i c="20" l="1693761694246" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="4" l="1693761553416" />
+      <i c="5" l="1693761705080" />
     </e>
     <e n="Find">
       <i c="2" l="1693759592438" />
