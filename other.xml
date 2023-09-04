@@ -26,7 +26,8 @@
     "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "PS-232.9559.64",
     "tasks.pass.word.conversion.enforced": "true",
-    "ts.lib.d.ts.version": "5.1.3"
+    "ts.lib.d.ts.version": "5.1.3",
+    "vcs.history.diff.splitter.proportion": "0.4983678"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
