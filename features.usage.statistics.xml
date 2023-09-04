@@ -7,7 +7,7 @@
     <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="2" last-shown="1693764111029" last-used="1693770450007" shown-count="113" />
+    <feature id="editing.completion.replace" count="3" last-shown="1693808560950" last-used="1693808561236" shown-count="114" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -79,7 +79,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="2" last-shown="0" last-used="1693759662388" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="3" last-shown="0" last-used="1693808992016" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
