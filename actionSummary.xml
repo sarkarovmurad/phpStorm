@@ -10,7 +10,7 @@
       <i c="1" l="1693816520366" />
     </e>
     <e n="ChangesView.Refresh">
-      <i c="15" l="1693821185719" />
+      <i c="18" l="1693821476996" />
     </e>
     <e n="CommentByLineComment">
       <i c="8" l="1693820760023" />
@@ -25,7 +25,7 @@
       <i c="6" l="1693821060166" />
     </e>
     <e n="EditorCopy">
-      <i c="64" l="1693821058298" />
+      <i c="66" l="1693822501372" />
     </e>
     <e n="EditorCut">
       <i c="19" l="1693816524754" />
@@ -37,7 +37,7 @@
       <i c="9" l="1693820786126" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="31" l="1693821262893" />
+      <i c="32" l="1693822489766" />
     </e>
     <e n="EditorDown">
       <i c="178" l="1693821307712" />
@@ -79,7 +79,7 @@
       <i c="53" l="1693820894234" />
     </e>
     <e n="EditorPaste">
-      <i c="100" l="1693821060795" />
+      <i c="101" l="1693822502156" />
     </e>
     <e n="EditorPreviousWord">
       <i c="30" l="1693821338805" />
@@ -115,13 +115,13 @@
       <i c="1" l="1693819844924" />
     </e>
     <e n="Find">
-      <i c="2" l="1693759592438" />
+      <i c="3" l="1693822488837" />
     </e>
     <e n="FindInPath">
       <i c="3" l="1693820206008" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="8" l="1693816949558" />
+      <i c="10" l="1693821469679" />
     </e>
     <e n="GotoDeclaration">
       <i c="13" l="1693820648805" />
@@ -133,10 +133,10 @@
       <i c="1" l="1693764113343" />
     </e>
     <e n="SaveAll">
-      <i c="101" l="1693821119843" />
+      <i c="104" l="1693822519960" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="18" l="1693820763443" />
+      <i c="26" l="1693822518385" />
     </e>
     <e n="Vcs.ShowTabbedFileHistory">
       <i c="2" l="1693816961804" />
@@ -154,7 +154,7 @@
       <i c="1" l="1693816589157" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="29" l="1693820152693" />
+      <i c="34" l="1693822430552" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1693764114411" />
@@ -163,13 +163,13 @@
       <i c="8" l="1693821182913" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="8" l="1693819806195" />
+      <i c="9" l="1693822428578" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
-      <i c="24" l="1693821149057" />
+      <i c="29" l="1693822514352" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
-      <i c="25" l="1693821049427" />
+      <i c="28" l="1693822512584" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
       <i c="1" l="1693761021293" />

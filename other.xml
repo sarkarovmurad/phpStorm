@@ -6,6 +6,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "FindSplitterProportion": "0.33006993",
     "PhpStorm.InitialConfiguration": "true",
     "appcds.runOnSecondStart": "PS-232.9559.64-8667f91343ac76c90d7b82e1f5b7094a14681a65de596e125866069634d635e1",
     "bundled.plugins.list.saved.version": "PS-232.9559.64",
