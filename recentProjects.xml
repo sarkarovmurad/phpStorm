@@ -18,30 +18,31 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/webcamera24">
-          <value>
-            <RecentProjectMetaInfo frameTitle="webcamera24 – style.module.sass" projectWorkspaceId="1w37in3dAJzKd1y2OhWHO2Qh5Ms">
-              <option name="activationTimestamp" value="1693760899787" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986597306" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
-              </option>
-              <frame x="260" y="20" width="1400" height="995" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1693760516260" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/flameapk.com">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2Ib5ti6Ze1UhuizzNRAJosF4rV9">
+              <option name="activationTimestamp" value="1694063563815" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986608025" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1694063259684" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/webcamera24">
+          <value>
+            <RecentProjectMetaInfo frameTitle="webcamera24 – main.ts" projectWorkspaceId="1w37in3dAJzKd1y2OhWHO2Qh5Ms">
+              <option name="activationTimestamp" value="1694063478281" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986608025" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1694063479202" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

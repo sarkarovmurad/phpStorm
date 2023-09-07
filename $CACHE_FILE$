@@ -4,6 +4,7 @@
   </component>
   <component name="PhpLanguageFeatureUsagesStatistics">
     <project hash="e8352628" />
+    <project hash="29d79f98" />
     <project hash="5f62e47f" />
   </component>
   <component name="PluginAdvertiserExtensions">{
@@ -21672,6 +21673,10 @@
 }</component>
   <component name="TypeScriptExternalDefinitionsRegistry">
     <modules>
+      <module>
+        <name>@types/lodash</name>
+        <version>4.14.198</version>
+      </module>
       <module>
         <name>@types/lodash</name>
         <version>4.14.197</version>
