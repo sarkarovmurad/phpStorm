@@ -19625,7 +19625,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1694062494385
+    "lastUpdateTime": 1694282774949
   },
   "dependencies": {
     "featureMap": {
@@ -20609,14 +20609,6 @@
           }
         ]
       },
-      "java:org.jboss.arquillian.core:arquillian-core-api": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.jboss.arquillian",
-            "nullablePluginName": "Arquillian"
-          }
-        ]
-      },
       "java:org.jboss.resteasy:resteasy-core": {
         "dataSet": [
           {
@@ -21230,7 +21222,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1694062494506
+    "lastUpdateTime": 1694282775067
   }
 }]]></component>
   <component name="PluginFeatureService">{

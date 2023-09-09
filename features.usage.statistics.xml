@@ -7,7 +7,7 @@
     <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="6" last-shown="1693808560950" last-used="1693821060199" shown-count="114" />
+    <feature id="editing.completion.replace" count="11" last-shown="1693808560950" last-used="1694284717338" shown-count="114" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -34,9 +34,9 @@
     <feature id="editing.duplicate" count="4" last-shown="0" last-used="1693770416297" shown-count="0" />
     <feature id="editing.copy.reference" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.find" count="3" last-shown="0" last-used="1693822488863" shown-count="0" />
+    <feature id="navigation.find" count="5" last-shown="0" last-used="1694285372418" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="15" last-shown="0" last-used="1693820794293" shown-count="0" />
+    <feature id="editing.completion.basic" count="18" last-shown="0" last-used="1694284685377" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -119,11 +119,11 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="85" />
-      <option name="invocations" value="13" />
+      <option name="sparedCharacters" value="110" />
+      <option name="invocations" value="16" />
       <option name="startDate" value="1693688400000" />
-      <option name="dayCount" value="2" />
-      <option name="lastDate" value="1693774800000" />
+      <option name="dayCount" value="3" />
+      <option name="lastDate" value="1694206800000" />
     </completionStatsTag>
     <fixesStatsTag>
       <option name="invocations" value="0" />
