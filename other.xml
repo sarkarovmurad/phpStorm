@@ -1,9 +1,9 @@
 <application>
-  <component name="FileEditorProviderManager"><![CDATA[{
-  "selectedProviders": {
-    "text-editor,sourcemapFileViewerProvider": "text-editor"
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,sourcemapFileViewerProvider&quot;: &quot;text-editor&quot;
   }
-}]]></component>
+}</component>
   <component name="NotRoamableUiSettings">
     <option name="presentationModeIdeScale" value="1.75" />
     <option name="overrideLafFontsWasMigrated" value="true" />
@@ -21,7 +21,7 @@
     "evlsprt3.232": "22",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9559.64",
-    "file.gist.reindex.count": "7",
+    "file.gist.reindex.count": "8",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
