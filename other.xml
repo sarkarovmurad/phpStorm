@@ -1,4 +1,9 @@
 <application>
+  <component name="FileEditorProviderManager"><![CDATA[{
+  "selectedProviders": {
+    "text-editor,sourcemapFileViewerProvider": "text-editor"
+  }
+}]]></component>
   <component name="NotRoamableUiSettings">
     <option name="presentationModeIdeScale" value="1.75" />
     <option name="overrideLafFontsWasMigrated" value="true" />
