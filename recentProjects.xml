@@ -18,26 +18,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/webcamera24">
-          <value>
-            <RecentProjectMetaInfo frameTitle="webcamera24 – main.ts" projectWorkspaceId="1w37in3dAJzKd1y2OhWHO2Qh5Ms">
-              <option name="activationTimestamp" value="1694063478281" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986608025" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
-              </option>
-              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1694063479202" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/liveradio24.com">
           <value>
             <RecentProjectMetaInfo frameTitle="liveradio24.com – RadioDetailIntro/index.tsx" opened="true" projectWorkspaceId="2Q5LfUed5oclbJJE11V0y2vdVeF">
-              <option name="activationTimestamp" value="1694435088066" />
+              <option name="activationTimestamp" value="1694443978376" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986634651" />
@@ -47,6 +31,22 @@
               <frame x="260" y="20" width="1400" height="995" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1694282779667" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/webcamera24">
+          <value>
+            <RecentProjectMetaInfo frameTitle="webcamera24 – main.ts" opened="true" projectWorkspaceId="1w37in3dAJzKd1y2OhWHO2Qh5Ms">
+              <option name="activationTimestamp" value="1694443968841" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986581793" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1694443921492" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

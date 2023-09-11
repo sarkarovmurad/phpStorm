@@ -46,13 +46,13 @@
       <i c="30" l="1694430494495" />
     </e>
     <e n="EditorCopy">
-      <i c="162" l="1694435055100" />
+      <i c="163" l="1694443826922" />
     </e>
     <e n="EditorCut">
       <i c="55" l="1694432902232" />
     </e>
     <e n="EditorDelete">
-      <i c="229" l="1694433576332" />
+      <i c="231" l="1694443984532" />
     </e>
     <e n="EditorDeleteToWordEnd">
       <i c="27" l="1694431596103" />
@@ -73,16 +73,16 @@
       <i c="228" l="1694433622322" />
     </e>
     <e n="EditorEscape">
-      <i c="39" l="1694433407987" />
+      <i c="40" l="1694443838975" />
     </e>
     <e n="EditorIndentSelection">
       <i c="4" l="1694287143388" />
     </e>
     <e n="EditorLeft">
-      <i c="314" l="1694433590969" />
+      <i c="317" l="1694443981806" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="42" l="1694433591189" />
+      <i c="45" l="1694443983625" />
     </e>
     <e n="EditorLineEnd">
       <i c="148" l="1694432736426" />
@@ -97,7 +97,7 @@
       <i c="31" l="1694429693328" />
     </e>
     <e n="EditorNextWord">
-      <i c="75" l="1694433592598" />
+      <i c="77" l="1694443981166" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="119" l="1694433586757" />
@@ -112,7 +112,7 @@
       <i c="135" l="1694433590182" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="126" l="1694432710063" />
+      <i c="131" l="1694443983060" />
     </e>
     <e n="EditorRight">
       <i c="231" l="1694434802683" />
@@ -193,7 +193,7 @@
       <i c="1" l="1693764113343" />
     </e>
     <e n="SaveAll">
-      <i c="400" l="1694433576677" />
+      <i c="403" l="1694443987298" />
     </e>
     <e n="SelectInProjectView">
       <i c="12" l="1694432583613" />
@@ -216,6 +216,9 @@
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693758309844" />
     </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="2" l="1694443930957" />
+    </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
       <i c="4" l="1694285374442" />
     </e>
@@ -223,13 +226,13 @@
       <i c="8" l="1694285374283" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="2" l="1694282775061" />
+      <i c="3" l="1694443919674" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1693816589157" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="99" l="1694434922699" />
+      <i c="103" l="1694443924657" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1693764114411" />
@@ -244,7 +247,7 @@
       <i c="25" l="1694435007732" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="20" l="1694434919619" />
+      <i c="22" l="1694443903618" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
       <i c="147" l="1694434615431" />

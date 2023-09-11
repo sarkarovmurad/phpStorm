@@ -2,6 +2,10 @@
   <component name="DimensionService">
     <location key="find.popup.0.0.3840.2160@192dpi" x="98" y="268" />
     <size key="find.popup.0.0.3840.2160@192dpi" width="2904" height="1560" />
+    <size key="GridCell.Tab.0.left.0.0.3840.2160@192dpi" width="3676" height="752" />
+    <size key="GridCell.Tab.0.center.0.0.3840.2160@192dpi" width="3676" height="752" />
+    <size key="GridCell.Tab.0.right.0.0.3840.2160@192dpi" width="3676" height="752" />
+    <size key="GridCell.Tab.0.bottom.0.0.3840.2160@192dpi" width="3676" height="752" />
   </component>
   <component name="WindowManager">
     <frame x="260" y="20" width="1400" height="995" extendedState="6" />
