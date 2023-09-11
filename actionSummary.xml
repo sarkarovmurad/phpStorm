@@ -37,7 +37,7 @@
       <i c="1" l="1694340083029" />
     </e>
     <e n="EditorBackSpace">
-      <i c="759" l="1694446120977" />
+      <i c="791" l="1694446301585" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="43" l="1694432721433" />
@@ -46,22 +46,22 @@
       <i c="30" l="1694430494495" />
     </e>
     <e n="EditorCopy">
-      <i c="166" l="1694446096900" />
+      <i c="168" l="1694446277843" />
     </e>
     <e n="EditorCut">
-      <i c="58" l="1694445799941" />
+      <i c="59" l="1694446252945" />
     </e>
     <e n="EditorDelete">
-      <i c="240" l="1694446070815" />
+      <i c="241" l="1694446234157" />
     </e>
     <e n="EditorDeleteToWordEnd">
-      <i c="27" l="1694431596103" />
+      <i c="29" l="1694446282552" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="80" l="1694444162897" />
+      <i c="82" l="1694446217238" />
     </e>
     <e n="EditorDown">
-      <i c="441" l="1694445389255" />
+      <i c="444" l="1694446256070" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="30" l="1694431371724" />
@@ -70,7 +70,7 @@
       <i c="6" l="1694375994574" />
     </e>
     <e n="EditorEnter">
-      <i c="240" l="1694446118700" />
+      <i c="243" l="1694446218888" />
     </e>
     <e n="EditorEscape">
       <i c="47" l="1694445388690" />
@@ -79,25 +79,25 @@
       <i c="4" l="1694287143388" />
     </e>
     <e n="EditorLeft">
-      <i c="342" l="1694445923841" />
+      <i c="347" l="1694446270876" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="60" l="1694445390421" />
+      <i c="62" l="1694446252461" />
     </e>
     <e n="EditorLineEnd">
-      <i c="153" l="1694446109104" />
+      <i c="156" l="1694446251678" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="53" l="1694445903332" />
+      <i c="54" l="1694446285449" />
     </e>
     <e n="EditorLineStart">
-      <i c="31" l="1694446070334" />
+      <i c="34" l="1694446254445" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="33" l="1694445802004" />
     </e>
     <e n="EditorNextWord">
-      <i c="92" l="1694445923242" />
+      <i c="93" l="1694446166507" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="150" l="1694445923974" />
@@ -106,16 +106,16 @@
       <i c="1" l="1694284803049" />
     </e>
     <e n="EditorPaste">
-      <i c="246" l="1694446106648" />
+      <i c="249" l="1694446280561" />
     </e>
     <e n="EditorPreviousWord">
       <i c="140" l="1694446108198" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="136" l="1694445323378" />
+      <i c="137" l="1694446167263" />
     </e>
     <e n="EditorRight">
-      <i c="246" l="1694445923538" />
+      <i c="247" l="1694446166749" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="81" l="1694445387098" />
@@ -151,7 +151,7 @@
       <i c="7" l="1694429694681" />
     </e>
     <e n="EditorUp">
-      <i c="426" l="1694445932783" />
+      <i c="429" l="1694446255566" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="96" l="1694430283064" />
@@ -166,7 +166,7 @@
       <i c="5" l="1694430700916" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="20" l="1694444200586" />
+      <i c="22" l="1694446321000" />
     </e>
     <e n="GotoDeclaration">
       <i c="21" l="1694432895224" />
@@ -247,7 +247,7 @@
       <i c="29" l="1694445890265" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="23" l="1694444309480" />
+      <i c="24" l="1694450665728" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
       <i c="147" l="1694434615431" />
