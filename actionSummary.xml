@@ -1,19 +1,19 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="3" l="1694517753589" />
+      <i c="4" l="1694519130977" />
     </e>
     <e n="$Delete">
       <i c="1" l="1694418911296" />
     </e>
     <e n="$Paste">
-      <i c="2" l="1694517763304" />
+      <i c="3" l="1694519134607" />
     </e>
     <e n="$SelectAll">
-      <i c="5" l="1694418181731" />
+      <i c="6" l="1694518767596" />
     </e>
     <e n="$Undo">
-      <i c="166" l="1694432831512" />
+      <i c="168" l="1694519192370" />
     </e>
     <e n="Annotate">
       <i c="1" l="1693816520366" />
@@ -46,13 +46,13 @@
       <i c="30" l="1694430494495" />
     </e>
     <e n="EditorCopy">
-      <i c="172" l="1694518275800" />
+      <i c="174" l="1694519190114" />
     </e>
     <e n="EditorCut">
       <i c="59" l="1694446252945" />
     </e>
     <e n="EditorDelete">
-      <i c="241" l="1694446234157" />
+      <i c="242" l="1694519162502" />
     </e>
     <e n="EditorDeleteToWordEnd">
       <i c="33" l="1694518412458" />
@@ -70,7 +70,7 @@
       <i c="6" l="1694375994574" />
     </e>
     <e n="EditorEnter">
-      <i c="244" l="1694517882677" />
+      <i c="247" l="1694519193662" />
     </e>
     <e n="EditorEscape">
       <i c="47" l="1694445388690" />
@@ -85,7 +85,7 @@
       <i c="62" l="1694446252461" />
     </e>
     <e n="EditorLineEnd">
-      <i c="157" l="1694518411985" />
+      <i c="158" l="1694518771724" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="54" l="1694446285449" />
@@ -94,7 +94,7 @@
       <i c="34" l="1694446254445" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="33" l="1694445802004" />
+      <i c="35" l="1694519195231" />
     </e>
     <e n="EditorNextWord">
       <i c="93" l="1694446166507" />
@@ -106,7 +106,7 @@
       <i c="1" l="1694284803049" />
     </e>
     <e n="EditorPaste">
-      <i c="251" l="1694518277482" />
+      <i c="257" l="1694519193760" />
     </e>
     <e n="EditorPreviousWord">
       <i c="143" l="1694517446241" />
@@ -151,7 +151,7 @@
       <i c="7" l="1694429694681" />
     </e>
     <e n="EditorUp">
-      <i c="429" l="1694446255566" />
+      <i c="430" l="1694519194813" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="96" l="1694430283064" />
@@ -166,7 +166,7 @@
       <i c="5" l="1694430700916" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="22" l="1694446321000" />
+      <i c="23" l="1694518808993" />
     </e>
     <e n="GotoDeclaration">
       <i c="23" l="1694517849713" />
@@ -196,7 +196,7 @@
       <i c="1" l="1693764113343" />
     </e>
     <e n="SaveAll">
-      <i c="415" l="1694518412861" />
+      <i c="416" l="1694519195755" />
     </e>
     <e n="SelectInProjectView">
       <i c="12" l="1694432583613" />
@@ -211,7 +211,7 @@
       <i c="5" l="1694433126488" />
     </e>
     <e n="SynchronizeCurrentFile">
-      <i c="2" l="1694433132638" />
+      <i c="3" l="1694519113070" />
     </e>
     <e n="Vcs.ShowTabbedFileHistory">
       <i c="3" l="1694340088253" />
@@ -229,19 +229,19 @@
       <i c="12" l="1694518395296" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="5" l="1694517426957" />
+      <i c="6" l="1694519088304" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1693816589157" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="119" l="1694518303273" />
+      <i c="124" l="1694519120760" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1693764114411" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="4" l="1694517427998" />
+      <i c="5" l="1694519089328" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
       <i c="1" l="1694339796666" />
@@ -253,7 +253,7 @@
       <i c="26" l="1694518188840" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
-      <i c="147" l="1694434615431" />
+      <i c="149" l="1694519099892" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
       <i c="152" l="1694518405556" />
