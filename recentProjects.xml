@@ -21,7 +21,7 @@
         <entry key="$USER_HOME$/projects/liveradio24.com">
           <value>
             <RecentProjectMetaInfo frameTitle="liveradio24.com – index.tsx" opened="true" projectWorkspaceId="2Q5LfUed5oclbJJE11V0y2vdVeF">
-              <option name="activationTimestamp" value="1694780562672" />
+              <option name="activationTimestamp" value="1694786311194" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986600790" />
@@ -36,17 +36,17 @@
         </entry>
         <entry key="$USER_HOME$/projects/flameapk.com">
           <value>
-            <RecentProjectMetaInfo frameTitle="flameapk.com" projectWorkspaceId="2Ib5ti6Ze1UhuizzNRAJosF4rV9">
-              <option name="activationTimestamp" value="1694519446115" />
+            <RecentProjectMetaInfo frameTitle="flameapk.com" opened="true" projectWorkspaceId="2Ib5ti6Ze1UhuizzNRAJosF4rV9">
+              <option name="activationTimestamp" value="1694786309025" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986600790" />
+              <option name="buildTimestamp" value="1692986609937" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="1" />
               </option>
               <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1694519090436" />
+              <option name="projectOpenTimestamp" value="1694786134830" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
