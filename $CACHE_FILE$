@@ -13782,13 +13782,17 @@
       "*.rs": {
         "dataSet": [
           {
+            "pluginIdString": "com.jetbrains.rust",
+            "nullablePluginName": "Rust"
+          },
+          {
             "pluginIdString": "org.jetbrains.android",
             "nullablePluginName": "Android Support",
             "isBundled": true
           },
           {
             "pluginIdString": "org.rust.lang",
-            "nullablePluginName": "Rust"
+            "nullablePluginName": "[Deprecated] Rust"
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
@@ -15682,6 +15686,14 @@
           }
         ]
       },
+      "*.tconfig": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.ast.vizitest",
+            "nullablePluginName": "Vizitest"
+          }
+        ]
+      },
       "*.tea": {
         "dataSet": [
           {
@@ -17000,6 +17012,14 @@
           {
             "pluginIdString": "io.terminus.trantor.plugin",
             "nullablePluginName": "Trantor"
+          }
+        ]
+      },
+      "*.vizitest-test-manager": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.ast.vizitest",
+            "nullablePluginName": "Vizitest"
           }
         ]
       },
@@ -19625,7 +19645,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1694517216351
+    "lastUpdateTime": 1694772116282
   },
   "dependencies": {
     "featureMap": {
@@ -21222,7 +21242,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1694517216463
+    "lastUpdateTime": 1694772116403
   }
 }]]></component>
   <component name="PluginFeatureService">{
