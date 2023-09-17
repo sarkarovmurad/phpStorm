@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/projects/liveradio24.com">
-          <value>
-            <RecentProjectMetaInfo frameTitle="liveradio24.com – index.tsx" opened="true" projectWorkspaceId="2Q5LfUed5oclbJJE11V0y2vdVeF">
-              <option name="activationTimestamp" value="1694956192169" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986600790" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1694517428665" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/flameapk.com">
           <value>
             <RecentProjectMetaInfo frameTitle="flameapk.com – popular-apps/index.tsx" projectWorkspaceId="2Ib5ti6Ze1UhuizzNRAJosF4rV9">
@@ -47,6 +31,38 @@
               <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1694955950046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/liveradio24.com">
+          <value>
+            <RecentProjectMetaInfo frameTitle="liveradio24.com – genres/index.tsx" opened="true" projectWorkspaceId="2Q5LfUed5oclbJJE11V0y2vdVeF">
+              <option name="activationTimestamp" value="1694956285924" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986621192" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1694956273971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/shop.teboil.ru">
+          <value>
+            <RecentProjectMetaInfo frameTitle="shop.teboil.ru – index.tsx" opened="true" projectWorkspaceId="2LijmyHSnu9HzwYHEgjbXFUPhhr">
+              <option name="activationTimestamp" value="1694956279358" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986621192" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1694956280009" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
