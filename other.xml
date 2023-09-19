@@ -12,7 +12,7 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "FindSplitterProportion": "0.33006993",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
     "PhpStorm.InitialConfiguration": "true",
     "appcds.runOnSecondStart": "PS-232.9559.64-8667f91343ac76c90d7b82e1f5b7094a14681a65de596e125866069634d635e1",
     "bundled.plugins.list.saved.version": "PS-232.9559.64",
@@ -22,7 +22,7 @@
     "evlsprt3.232": "22",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9559.64",
-    "file.gist.reindex.count": "26",
+    "file.gist.reindex.count": "27",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -40,6 +40,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/oem/projects/aimdoc-front",
       "/home/oem/projects/shop.teboil.ru",
       "/home/oem/projects/flameapk.com",
       "/home/oem/projects/webcamera24",

@@ -43,7 +43,7 @@
       <i c="8" l="1694956035737" />
     </e>
     <e n="EditorPaste">
-      <i c="10" l="1694956324424" />
+      <i c="11" l="1695121783847" />
     </e>
     <e n="EditorPreviousWord">
       <i c="4" l="1694955987068" />
@@ -70,10 +70,10 @@
       <i c="1" l="1694956139594" />
     </e>
     <e n="OpenFile">
-      <i c="1" l="1694956197986" />
+      <i c="2" l="1694967173864" />
     </e>
     <e n="SaveAll">
-      <i c="8" l="1694956325532" />
+      <i c="9" l="1695121786320" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="4" l="1694956311647" />
@@ -82,22 +82,22 @@
       <i c="2" l="1694955988512" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="3" l="1694956278026" />
+      <i c="4" l="1695121621218" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="4" l="1694955961152" />
+      <i c="5" l="1694967251558" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="2" l="1694956279058" />
+      <i c="3" l="1695121622193" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1694955959472" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
-      <i c="9" l="1694956185287" />
+      <i c="10" l="1694956329565" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
-      <i c="9" l="1694956317498" />
+      <i c="10" l="1694956330209" />
     </e>
   </component>
 </application>
