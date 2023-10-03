@@ -6,6 +6,9 @@
         <added pattern="\in_array(needle,haystack,strict)" />
         <removed pattern="" />
       </blacklist>
+      <blacklist language="TypeScript">
+        <added pattern="React.useEffect(effect,deps)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
