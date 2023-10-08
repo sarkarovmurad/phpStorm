@@ -34,22 +34,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/webcamera24">
-          <value>
-            <RecentProjectMetaInfo frameTitle="webcamera24 – index.tsx" opened="true" projectWorkspaceId="1w37in3dAJzKd1y2OhWHO2Qh5Ms">
-              <option name="activationTimestamp" value="1695137254267" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986621192" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
-              </option>
-              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1695121622926" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/shop.teboil.ru">
           <value>
             <RecentProjectMetaInfo frameTitle="shop.teboil.ru – index.tsx" projectWorkspaceId="2VcOncAbyC2IqGZELT5Bl5yTSnM">
@@ -79,6 +63,22 @@
               <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1695132096409" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/webcamera24">
+          <value>
+            <RecentProjectMetaInfo frameTitle="webcamera24 – index.tsx" opened="true" projectWorkspaceId="1w37in3dAJzKd1y2OhWHO2Qh5Ms">
+              <option name="activationTimestamp" value="1696757175744" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765485928" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1696748992673" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
