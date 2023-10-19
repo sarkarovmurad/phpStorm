@@ -11426,6 +11426,14 @@
           }
         ]
       },
+      "*.nu": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.nushell.community",
+            "nullablePluginName": "NuShell Community"
+          }
+        ]
+      },
       "*.nut": {
         "dataSet": [
           {
@@ -19963,7 +19971,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697563194918
+    "lastUpdateTime": 1697726432461
   },
   "dependencies": {
     "featureMap": {
@@ -21536,7 +21544,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697563195045
+    "lastUpdateTime": 1697726432655
   }
 }]]></component>
   <component name="PluginFeatureService">{
@@ -21979,6 +21987,10 @@
 }</component>
   <component name="TypeScriptExternalDefinitionsRegistry">
     <modules>
+      <module>
+        <name>@types/lodash</name>
+        <version>4.14.200</version>
+      </module>
       <module>
         <name>@types/lodash</name>
         <version>4.14.199</version>
