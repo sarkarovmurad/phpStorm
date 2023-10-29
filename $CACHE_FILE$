@@ -1929,6 +1929,10 @@
           },
           {
             "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
             "nullablePluginName": "Android Support",
             "isBundled": true
           },
@@ -1947,11 +1951,19 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
       "*.aar": {
         "dataSet": [
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -2118,6 +2130,14 @@
           }
         ]
       },
+      "*.agsl": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
+          }
+        ]
+      },
       "*.ahk": {
         "dataSet": [
           {
@@ -2160,6 +2180,10 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -2213,6 +2237,10 @@
           {
             "pluginIdString": "com.jetbrains.appcode.android",
             "nullablePluginName": "Android Tools for AppCode"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -2229,6 +2257,10 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -2326,6 +2358,10 @@
       },
       "*.apk": {
         "dataSet": [
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -5063,6 +5099,10 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -5316,6 +5356,14 @@
           {
             "pluginIdString": "com.dslplatform.ideaplugin",
             "nullablePluginName": "DSL Platform"
+          }
+        ]
+      },
+      "*.dspec": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.android.tools.design",
+            "nullablePluginName": "Android Design Tools"
           }
         ]
       },
@@ -6478,6 +6526,10 @@
         "dataSet": [
           {
             "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
             "nullablePluginName": "Android Support",
             "isBundled": true
           },
@@ -7453,6 +7505,10 @@
           {
             "pluginIdString": "com.jetbrains.appcode.android",
             "nullablePluginName": "Android Tools for AppCode"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -9529,6 +9585,10 @@
             "nullablePluginName": "Android Tools for AppCode"
           },
           {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
+          },
+          {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
           },
@@ -9728,6 +9788,10 @@
           {
             "pluginIdString": "com.pingfangx.plugin.legacylayoutinspector",
             "nullablePluginName": "Legacy Layout Inspector"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -11644,6 +11708,10 @@
           {
             "pluginIdString": "com.jetbrains.appcode.android",
             "nullablePluginName": "Android Tools for AppCode"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -11990,6 +12058,10 @@
             "nullablePluginName": "Android Tools for AppCode"
           },
           {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
+          },
+          {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
           }
@@ -12056,6 +12128,10 @@
           {
             "pluginIdString": "com.jetbrains.appcode.android",
             "nullablePluginName": "Android Tools for AppCode"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
@@ -12509,6 +12585,10 @@
             "pluginIdString": "org.jetbrains.idea.maven",
             "nullablePluginName": "Maven Integration",
             "isBundled": true
+          },
+          {
+            "pluginIdString": "ru.rzn.gmyasoedov.gmaven",
+            "nullablePluginName": "Gmaven"
           }
         ]
       },
@@ -12743,6 +12823,10 @@
           {
             "pluginIdString": "tech.phosphorus.intellij-prolog",
             "nullablePluginName": "Prolog"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -12893,6 +12977,10 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -14040,6 +14128,10 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -14488,6 +14580,14 @@
           {
             "pluginIdString": "fr.assoba.open.sel.plugin",
             "nullablePluginName": "SEL Editor"
+          }
+        ]
+      },
+      "*.selectors.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dinbtechit.ngxs",
+            "nullablePluginName": "NGXS"
           }
         ]
       },
@@ -15332,6 +15432,14 @@
           {
             "pluginIdString": "io.intino.plugin",
             "nullablePluginName": "Intino"
+          }
+        ]
+      },
+      "*.state.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dinbtechit.ngxs",
+            "nullablePluginName": "NGXS"
           }
         ]
       },
@@ -16526,6 +16634,10 @@
             "nullablePluginName": "Android Tools for AppCode"
           },
           {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
+          },
+          {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
           }
@@ -16821,6 +16933,10 @@
           {
             "pluginIdString": "com.github.Joehaivo.icon-font-viewer",
             "nullablePluginName": "Icon Font Viewer"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -17114,6 +17230,14 @@
           {
             "pluginIdString": "com.slalom.idea.aws.avs.sutr",
             "nullablePluginName": "Sutr Language Plugin"
+          }
+        ]
+      },
+      "*.uvue": {
+        "dataSet": [
+          {
+            "pluginIdString": "cn.fjdmy.uniapp",
+            "nullablePluginName": "Uniapp Tool"
           }
         ]
       },
@@ -18404,6 +18528,14 @@
           }
         ]
       },
+      "*actions.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dinbtechit.ngxs",
+            "nullablePluginName": "NGXS"
+          }
+        ]
+      },
       "*constants.txt": {
         "dataSet": [
           {
@@ -19342,6 +19474,10 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -19517,6 +19653,10 @@
       "proguard-*.txt": {
         "dataSet": [
           {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
+          },
+          {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
           }
@@ -19527,6 +19667,10 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           }
         ]
       },
@@ -19971,7 +20115,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697726432461
+    "lastUpdateTime": 1698576856730
   },
   "dependencies": {
     "featureMap": {
@@ -21099,6 +21243,14 @@
           }
         ]
       },
+      "java:org.springframework.boot:spring-boot-starter-graphql": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.spring.graphql",
+            "nullablePluginName": "Spring GraphQL"
+          }
+        ]
+      },
       "java:org.springframework.cloud:spring-cloud-context": {
         "dataSet": [
           {
@@ -21128,6 +21280,14 @@
           {
             "pluginIdString": "com.intellij.spring.data",
             "nullablePluginName": "Spring Data"
+          }
+        ]
+      },
+      "java:org.springframework.graphql:spring-graphql": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.spring.graphql",
+            "nullablePluginName": "Spring GraphQL"
           }
         ]
       },
@@ -21544,7 +21704,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697726432655
+    "lastUpdateTime": 1698576856957
   }
 }]]></component>
   <component name="PluginFeatureService">{
