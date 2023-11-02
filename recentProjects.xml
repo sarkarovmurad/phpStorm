@@ -34,22 +34,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/shop.teboil.ru">
-          <value>
-            <RecentProjectMetaInfo frameTitle="shop.teboil.ru – index.tsx" projectWorkspaceId="2VcOncAbyC2IqGZELT5Bl5yTSnM">
-              <option name="activationTimestamp" value="1695132095800" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986621192" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1695132069526" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/aimdoc-front">
           <value>
             <RecentProjectMetaInfo frameTitle="aimdoc-front – README.md" projectWorkspaceId="2VcOqyktUaF2UDeudMXZYmYV9KP">
@@ -69,7 +53,7 @@
         <entry key="$USER_HOME$/projects/webcamera24">
           <value>
             <RecentProjectMetaInfo frameTitle="webcamera24 – index.tsx" opened="true" projectWorkspaceId="1w37in3dAJzKd1y2OhWHO2Qh5Ms">
-              <option name="activationTimestamp" value="1698606052609" />
+              <option name="activationTimestamp" value="1698949462833" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765485928" />
@@ -79,6 +63,22 @@
               <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1696748992673" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/shop.teboil.ru">
+          <value>
+            <RecentProjectMetaInfo frameTitle="shop.teboil.ru – index.tsx" opened="true" projectWorkspaceId="2Xd7Cb9Au2Auwghk67wip64LU21">
+              <option name="activationTimestamp" value="1698949455129" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202327300" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698946975957" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
