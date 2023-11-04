@@ -13,10 +13,10 @@
       <i c="5" l="1699119298051" />
     </e>
     <e n="$Undo">
-      <i c="49" l="1699119941695" />
+      <i c="50" l="1699120547489" />
     </e>
     <e n="ChangesView.Refresh">
-      <i c="13" l="1699117997871" />
+      <i c="14" l="1699119953387" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1699117740424" />
@@ -25,7 +25,7 @@
       <i c="1" l="1698949764142" />
     </e>
     <e n="EditorBackSpace">
-      <i c="232" l="1699119910903" />
+      <i c="238" l="1699120548238" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="22" l="1699119933451" />
@@ -40,10 +40,10 @@
       <i c="30" l="1698949451196" />
     </e>
     <e n="EditorDelete">
-      <i c="89" l="1699119915692" />
+      <i c="90" l="1699120548434" />
     </e>
     <e n="EditorDeleteToWordEnd">
-      <i c="5" l="1699119417599" />
+      <i c="11" l="1699120548918" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="20" l="1699119506171" />
@@ -70,10 +70,10 @@
       <i c="24" l="1699119932303" />
     </e>
     <e n="EditorLineEnd">
-      <i c="79" l="1699119914948" />
+      <i c="80" l="1699120545522" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="23" l="1699119913900" />
+      <i c="24" l="1699119965301" />
     </e>
     <e n="EditorLineStart">
       <i c="18" l="1699119913558" />
@@ -97,7 +97,7 @@
       <i c="65" l="1699119462621" />
     </e>
     <e n="EditorRight">
-      <i c="138" l="1699119908562" />
+      <i c="141" l="1699119965119" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="32" l="1699119355184" />
@@ -163,7 +163,7 @@
       <i c="1" l="1697472599266" />
     </e>
     <e n="SaveAll">
-      <i c="153" l="1699119944245" />
+      <i c="154" l="1699120549391" />
     </e>
     <e n="SelectInProjectView">
       <i c="9" l="1699119918581" />
@@ -196,7 +196,7 @@
       <i c="9" l="1699118664219" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="49" l="1699118420100" />
+      <i c="52" l="1699120530292" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="4" l="1698948902944" />
@@ -208,13 +208,13 @@
       <i c="1" l="1697472618930" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="27" l="1699118186166" />
+      <i c="28" l="1699119951364" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="1" l="1699118662035" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="16" l="1699118419175" />
+      <i c="17" l="1699119987485" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
       <i c="1" l="1699119009916" />
@@ -223,10 +223,10 @@
       <i c="1" l="1699119007493" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
-      <i c="56" l="1699119849198" />
+      <i c="59" l="1699120530077" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
-      <i c="62" l="1699119860789" />
+      <i c="64" l="1699120529497" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$CheckoutAsNewBranch">
       <i c="1" l="1695122799709" />
