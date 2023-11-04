@@ -1,4 +1,8 @@
 <application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
@@ -13,7 +17,7 @@
     "evlsprt3.232": "22",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10072.32",
-    "file.gist.reindex.count": "37",
+    "file.gist.reindex.count": "38",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -51,7 +55,7 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="webcamera24-history1" project-path="$USER_HOME$/projects/webcamera24" last-access-time="1698947289045" />
+      <command-history-file filename="webcamera24-history1" project-path="$USER_HOME$/projects/webcamera24" last-access-time="1699117693124" />
     </command-history-files>
   </component>
 </application>
