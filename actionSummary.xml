@@ -25,10 +25,10 @@
       <i c="1" l="1698949764142" />
     </e>
     <e n="EditorBackSpace">
-      <i c="247" l="1699124003696" />
+      <i c="248" l="1699124007002" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="22" l="1699119933451" />
+      <i c="23" l="1699124008815" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="12" l="1699119792661" />
@@ -46,7 +46,7 @@
       <i c="11" l="1699120548918" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="20" l="1699119506171" />
+      <i c="21" l="1699124007721" />
     </e>
     <e n="EditorDown">
       <i c="248" l="1699123435581" />
@@ -232,7 +232,7 @@
       <i c="60" l="1699123950415" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
-      <i c="64" l="1699120529497" />
+      <i c="65" l="1699125994249" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$CheckoutAsNewBranch">
       <i c="1" l="1695122799709" />
