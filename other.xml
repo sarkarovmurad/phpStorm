@@ -18,11 +18,12 @@
     "evlsprt3.232": "22",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10072.32",
-    "file.gist.reindex.count": "46",
+    "file.gist.reindex.count": "51",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
     "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.terminal.smart_command_execution": "1",
     "ide.memory.adjusted": "true",
     "ide.updates.previous.build.number": "PS-232.10072.32",
     "input.method.disabler.muted": "true",
@@ -56,7 +57,7 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="webcamera24-history1" project-path="$USER_HOME$/projects/webcamera24" last-access-time="1699117693124" />
+      <command-history-file filename="webcamera24-history1" project-path="$USER_HOME$/projects/webcamera24" last-access-time="1699209760180" />
     </command-history-files>
   </component>
 </application>
