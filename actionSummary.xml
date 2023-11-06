@@ -49,7 +49,7 @@
       <i c="17" l="1699216893175" />
     </e>
     <e n="EditorCopy">
-      <i c="168" l="1699255902381" />
+      <i c="169" l="1699258356028" />
     </e>
     <e n="EditorCut">
       <i c="41" l="1699217243796" />
@@ -106,7 +106,7 @@
       <i c="242" l="1699255922167" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="136" l="1699255923656" />
+      <i c="138" l="1699258355605" />
     </e>
     <e n="EditorPaste">
       <i c="212" l="1699255905449" />
@@ -319,7 +319,7 @@
       <i c="1" l="1697472618930" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
-      <i c="2" l="1699217376283" />
+      <i c="4" l="1699256149843" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="45" l="1699217266521" />
@@ -343,7 +343,7 @@
       <i c="1" l="1699119007493" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
-      <i c="125" l="1699217111542" />
+      <i c="126" l="1699258337380" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
       <i c="138" l="1699255902577" />
