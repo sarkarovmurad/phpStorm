@@ -23,11 +23,11 @@
     <feature id="editing.copy.line" count="1" last-shown="0" last-used="1693819838794" shown-count="0" />
     <feature id="navigation.find.in.files" count="16" last-shown="0" last-used="1699216921421" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="66" last-shown="0" last-used="1699216932424" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="67" last-shown="0" last-used="1699255846925" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="17" last-shown="0" last-used="1699210689316" shown-count="0" />
+    <feature id="codeassists.comment.line" count="18" last-shown="0" last-used="1699255936665" shown-count="0" />
     <feature id="SearchEverywhere" count="1" last-shown="0" last-used="1699131857419" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />

@@ -18,7 +18,7 @@
     "evlsprt3.232": "22",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10072.32",
-    "file.gist.reindex.count": "51",
+    "file.gist.reindex.count": "52",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -57,7 +57,7 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="webcamera24-history1" project-path="$USER_HOME$/projects/webcamera24" last-access-time="1699209760180" />
+      <command-history-file filename="webcamera24-history1" project-path="$USER_HOME$/projects/webcamera24" last-access-time="1699255842132" />
     </command-history-files>
   </component>
 </application>
