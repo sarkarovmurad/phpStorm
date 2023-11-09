@@ -19,6 +19,9 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
+  <component name="SqlEditorTabsSettings" ALWAYS_QUALIFY_TAB_NAMES="true">
+    <option name="alwaysQualifyTabNames" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
