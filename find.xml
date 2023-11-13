@@ -3,14 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <mask>.sass</mask>
     <mask>.tsx</mask>
     <mask>.ts</mask>
     <mask>*</mask>
     <mask>*.sass</mask>
     <mask>*.scss</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
