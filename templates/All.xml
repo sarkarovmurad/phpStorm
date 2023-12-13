@@ -6,6 +6,7 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="PHP" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>

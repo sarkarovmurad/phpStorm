@@ -12,6 +12,7 @@
     <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="$" value="$('$var$')" description="Jquery" toReformat="false" toShortenFQNames="true">
