@@ -25,8 +25,6 @@
     <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
