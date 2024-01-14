@@ -13,5 +13,6 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.json</mask>
   </component>
 </application>
