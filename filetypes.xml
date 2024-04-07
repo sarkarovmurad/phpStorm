@@ -4,8 +4,6 @@
       <mapping pattern="auth" type="AUTO_DETECTED" />
       <mapping pattern=".env_back" type="PLAIN_TEXT" />
       <mapping ext="sas" type="TypeScript" />
-      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping pattern=".env" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
