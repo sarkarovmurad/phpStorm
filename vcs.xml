@@ -64,7 +64,7 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
+        <option value="GitHub.CommitStatus" />
       </list>
     </option>
     <option name="CUSTOM_BOOLEAN_PROPERTIES">
@@ -73,8 +73,5 @@
         <entry key="Navigate.Log.To.Branch.on.Branch.Selection" value="false" />
       </map>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
