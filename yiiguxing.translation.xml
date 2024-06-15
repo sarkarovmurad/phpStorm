@@ -3,6 +3,9 @@
     <option name="lastTrimTime" value="1713273724248" />
   </component>
   <component name="Translation.States">
+    <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="391" />
     <histories>
       <item value="volumes" />
       <item value="development" />
