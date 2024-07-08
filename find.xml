@@ -10,7 +10,7 @@
     <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.sass</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
