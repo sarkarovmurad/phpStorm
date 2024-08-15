@@ -2,40 +2,51 @@
   <component name="LanguageInjectionConfiguration">
     <injection language="SQLite" injector-id="js">
       <display-name>HTML5 SQL Database (SQLite)</display-name>
+      <single-file value="true" />
       <place disabled="true"><![CDATA[jsLiteralExpression().and(jsArgument("executeSql", 0))]]></place>
     </injection>
     <injection language="SQLite" injector-id="js">
       <display-name>flash.data (SQLite)</display-name>
+      <single-file value="true" />
       <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "dbStatement"))]]></place>
       <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "statement", "st").withText(string().matchesBrics("[\"'`] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .*SET)|((CREATE|DROP|ALTER) +(TABLE|INDEX))) .*[\"'`]?")))]]></place>
       <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
     </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regclass" fragment="SQL_TABLE_REFERENCE" hosts="PostgreSQL">
       <display-name>(?i)regclass</display-name>
+      <single-file value="true" />
     </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regconfig" fragment="SQL_REFERENCE" hosts="PostgreSQL">
       <display-name>(?i)regconfig</display-name>
+      <single-file value="true" />
     </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regdictionary" fragment="SQL_REFERENCE" hosts="PostgreSQL">
       <display-name>(?i)regdictionary</display-name>
+      <single-file value="true" />
     </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regnamespace" fragment="SQL_SCHEMA_REFERENCE" hosts="PostgreSQL">
       <display-name>(?i)regnamespace</display-name>
+      <single-file value="true" />
     </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regoper" fragment="SQL_OPERATOR_REFERENCE" hosts="PostgreSQL">
       <display-name>(?i)regoper</display-name>
+      <single-file value="true" />
     </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regoperator" fragment="SQL_OPERATOR_SIGNATURE" hosts="PostgreSQL">
       <display-name>(?i)regoperator</display-name>
+      <single-file value="true" />
     </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regproc" fragment="SQL_FUNCTION_REFERENCE" hosts="PostgreSQL">
       <display-name>(?i)regproc</display-name>
+      <single-file value="true" />
     </injection>
     <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regprocedure" fragment="SQL_FUNCTION_SIGNATURE" hosts="PostgreSQL">
       <display-name>(?i)regprocedure</display-name>
+      <single-file value="true" />
     </injection>
     <injection language="XML" injector-id="sql" pattern="(?i)xml(type)?">
       <display-name>(?i)xml(type)?</display-name>
+      <single-file value="true" />
     </injection>
   </component>
 </application>

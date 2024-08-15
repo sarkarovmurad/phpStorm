@@ -1,13 +1,13 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="React.useEffect(effect,deps)" />
+      </blacklist>
       <blacklist language="PHP">
         <added pattern="\str_replace(search,replace,subject,count)" />
         <added pattern="\in_array(needle,haystack,strict)" />
         <removed pattern="" />
-      </blacklist>
-      <blacklist language="TypeScript">
-        <added pattern="React.useEffect(effect,deps)" />
       </blacklist>
     </blacklists>
   </component>
